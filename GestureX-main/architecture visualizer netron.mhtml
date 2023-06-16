@@ -1,0 +1,1529 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://netron.app/
+Subject: weights.06-0.04.h5
+Date: Thu, 14 Apr 2022 08:53:28 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--RF9AZPs2iKO1KeL0QUsHAx1FemfQ4TnFL3JCtEEQXj----"
+
+
+------MultipartBoundary--RF9AZPs2iKO1KeL0QUsHAx1FemfQ4TnFL3JCtEEQXj----
+Content-Type: text/html
+Content-ID: <frame-9E649040F7F1505D5213089BD56312D7@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://netron.app/
+
+<!DOCTYPE html><html lang=3D"en" style=3D""><head><meta http-equiv=3D"Conte=
+nt-Type" content=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" ty=
+pe=3D"text/css" href=3D"cid:css-63dcca3c-f299-40c5-b4f8-e51bf748da2e@mhtml.=
+blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-7c5d8a6=
+8-399b-436e-8373-4bd5a362c89b@mhtml.blink" /><link rel=3D"stylesheet" type=
+=3D"text/css" href=3D"cid:css-f83de34c-b3b9-4e10-bf10-70d7a30741cb@mhtml.bl=
+ink" />
+
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1.=
+0, maximum-scale=3D1.0, user-scalable=3Dno, viewport-fit=3Dcover">
+
+<meta name=3D"version" content=3D"5.7.0">
+<title>weights.06-0.04.h5</title>
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"https://netron.app/view-=
+grapher.css">
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"https://netron.app/view-=
+sidebar.css">
+<link rel=3D"shortcut icon" type=3D"image/x-icon" href=3D"https://netron.ap=
+p/favicon.ico">
+<link rel=3D"icon" type=3D"image/png" href=3D"https://netron.app/icon.png">
+<link rel=3D"apple-touch-icon" type=3D"image/png" href=3D"https://netron.ap=
+p/icon.png">
+<link rel=3D"apple-touch-icon-precomposed" type=3D"image/png" href=3D"https=
+://netron.app/icon.png">
+<link rel=3D"fluid-icon" type=3D"image/png" href=3D"https://netron.app/icon=
+.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class=3D"default" data-new-gr-c-s-check-loaded=3D"14.1056.0" data-gr-=
+ext-installed=3D"">
+<div id=3D"graph" class=3D"graph" tabindex=3D"0" style=3D"width: 100%;">
+    <svg id=3D"canvas" class=3D"canvas" preserveAspectRatio=3D"xMidYMid mee=
+t" width=3D"314" height=3D"1301" viewBox=3D"0 0 314 1301" style=3D"width: 3=
+14px; height: 1301px;"><rect id=3D"background" fill=3D"none" pointer-events=
+=3D"all" width=3D"314" height=3D"1301"></rect><g id=3D"origin" transform=3D=
+"translate(100, 100) scale(1)"><g id=3D"clusters" class=3D"clusters"></g><g=
+ id=3D"edge-paths" class=3D"edge-paths"><defs><marker id=3D"arrowhead-vee" =
+viewBox=3D"0 0 10 10" refX=3D"9" refY=3D"5" markerUnits=3D"strokeWidth" mar=
+kerWidth=3D"8" markerHeight=3D"6" orient=3D"auto"><path d=3D"M 0 0 L 10 5 L=
+ 0 10 L 4 5 z" style=3D"stroke-width: 1;"></path></marker><marker id=3D"arr=
+owhead-vee-select" viewBox=3D"0 0 10 10" refX=3D"9" refY=3D"5" markerUnits=
+=3D"strokeWidth" markerWidth=3D"8" markerHeight=3D"6" orient=3D"auto"><path=
+ d=3D"M 0 0 L 10 5 L 0 10 L 4 5 z" style=3D"stroke-width: 1;"></path></mark=
+er></defs><path id=3D"edge-input" class=3D"edge-path" d=3D"M56.59375,20L56.=
+59375,21.666666666666668C56.59375,23.333333333333332,56.59375,26.6666666666=
+66668,56.59375,31.75C56.59375,36.833333333333336,56.59375,43.66666666666666=
+4,56.59375,50.5C56.59375,57.333333333333336,56.59375,64.16666666666667,56.5=
+9375,69.25C56.59375,74.33333333333333,56.59375,77.66666666666667,56.59375,7=
+9.33333333333333L56.59375,81"></path><path id=3D"edge-conv2d_input" class=
+=3D"edge-path" d=3D"M56.59375,101L56.59375,102.66666666666667C56.59375,104.=
+33333333333333,56.59375,107.66666666666667,56.59375,111C56.59375,114.333333=
+33333333,56.59375,117.66666666666667,56.59375,119.33333333333333L56.59375,1=
+21"></path><path id=3D"edge-conv2d" class=3D"edge-path" d=3D"M56.59375,191L=
+56.59375,192.66666666666666C56.59375,194.33333333333334,56.59375,197.666666=
+66666666,56.59375,201C56.59375,204.33333333333334,56.59375,207.666666666666=
+66,56.59375,209.33333333333334L56.59375,211"></path><path id=3D"edge-max_po=
+oling2d" class=3D"edge-path" d=3D"M56.59375,231L56.59375,232.66666666666666=
+C56.59375,234.33333333333334,56.59375,237.66666666666666,56.59375,241C56.59=
+375,244.33333333333334,56.59375,247.66666666666666,56.59375,249.33333333333=
+334L56.59375,251"></path><path id=3D"edge-conv2d_1" class=3D"edge-path" d=
+=3D"M56.59375,321L56.59375,322.6666666666667C56.59375,324.3333333333333,56.=
+59375,327.6666666666667,56.59375,331C56.59375,334.3333333333333,56.59375,33=
+7.6666666666667,56.59375,339.3333333333333L56.59375,341"></path><path id=3D=
+"edge-max_pooling2d_1" class=3D"edge-path" d=3D"M56.59375,361L56.59375,362.=
+6666666666667C56.59375,364.3333333333333,56.59375,367.6666666666667,56.5937=
+5,371C56.59375,374.3333333333333,56.59375,377.6666666666667,56.59375,379.33=
+33333333333L56.59375,381"></path><path id=3D"edge-conv2d_2" class=3D"edge-p=
+ath" d=3D"M56.59375,451L56.59375,452.6666666666667C56.59375,454.33333333333=
+33,56.59375,457.6666666666667,56.59375,461C56.59375,464.3333333333333,56.59=
+375,467.6666666666667,56.59375,469.3333333333333L56.59375,471"></path><path=
+ id=3D"edge-max_pooling2d_2" class=3D"edge-path" d=3D"M56.59375,491L56.5937=
+5,492.6666666666667C56.59375,494.3333333333333,56.59375,497.6666666666667,5=
+6.59375,501C56.59375,504.3333333333333,56.59375,507.6666666666667,56.59375,=
+509.3333333333333L56.59375,511"></path><path id=3D"edge-conv2d_3" class=3D"=
+edge-path" d=3D"M56.59375,581L56.59375,582.6666666666666C56.59375,584.33333=
+33333334,56.59375,587.6666666666666,56.59375,591C56.59375,594.3333333333334=
+,56.59375,597.6666666666666,56.59375,599.3333333333334L56.59375,601"></path=
+><path id=3D"edge-max_pooling2d_3" class=3D"edge-path" d=3D"M56.59375,621L5=
+6.59375,622.6666666666666C56.59375,624.3333333333334,56.59375,627.666666666=
+6666,56.59375,631C56.59375,634.3333333333334,56.59375,637.6666666666666,56.=
+59375,639.3333333333334L56.59375,641"></path><path id=3D"edge-conv2d_4" cla=
+ss=3D"edge-path" d=3D"M56.59375,711L56.59375,712.6666666666666C56.59375,714=
+.3333333333334,56.59375,717.6666666666666,56.59375,721C56.59375,724.3333333=
+333334,56.59375,727.6666666666666,56.59375,729.3333333333334L56.59375,731">=
+</path><path id=3D"edge-max_pooling2d_4" class=3D"edge-path" d=3D"M56.59375=
+,751L56.59375,752.6666666666666C56.59375,754.3333333333334,56.59375,757.666=
+6666666666,56.59375,761C56.59375,764.3333333333334,56.59375,767.66666666666=
+66,56.59375,769.3333333333334L56.59375,771"></path><path id=3D"edge-flatten=
+" class=3D"edge-path" d=3D"M56.59375,791L56.59375,792.6666666666666C56.5937=
+5,794.3333333333334,56.59375,797.6666666666666,56.59375,801C56.59375,804.33=
+33333333334,56.59375,807.6666666666666,56.59375,809.3333333333334L56.59375,=
+811"></path><path id=3D"edge-dense" class=3D"edge-path" d=3D"M56.59375,881L=
+56.59375,882.6666666666666C56.59375,884.3333333333334,56.59375,887.66666666=
+66666,56.59375,891C56.59375,894.3333333333334,56.59375,897.6666666666666,56=
+.59375,899.3333333333334L56.59375,901"></path><path id=3D"edge-dense_1" cla=
+ss=3D"edge-path" d=3D"M56.59375,971L56.59375,972.6666666666666C56.59375,974=
+.3333333333334,56.59375,977.6666666666666,56.59375,981C56.59375,984.3333333=
+333334,56.59375,987.6666666666666,56.59375,989.3333333333334L56.59375,991">=
+</path><path id=3D"edge-dense_2" class=3D"edge-path" d=3D"M56.59375,1061L56=
+.59375,1062.6666666666667C56.59375,1064.3333333333333,56.59375,1067.6666666=
+666667,56.59375,1071C56.59375,1074.3333333333333,56.59375,1077.666666666666=
+7,56.59375,1079.3333333333333L56.59375,1081"></path></g><g id=3D"edge-label=
+s" class=3D"edge-labels"><text class=3D"edge-label" id=3D"edge-label-edge-i=
+nput" transform=3D"translate(61.59375,45)" style=3D"opacity: 1;"><tspan xml=
+:space=3D"preserve" dy=3D"1em" x=3D"1">?=C3=9764=C3=9764=C3=971</tspan></te=
+xt></g><g id=3D"nodes" class=3D"nodes"><g id=3D"input-name-input" class=3D"=
+node graph-input" transform=3D"translate(36.148834228515625,0)" style=3D"op=
+acity: 1;"><g class=3D"node-item graph-item-input" transform=3D"translate(0=
+,0)"><path d=3D"M5,0h30.88983154296875a5,5 0 0 1 5,5v10a5,5 0 0 1 -5,5h-30.=
+88983154296875a5,5 0 0 1 -5,-5v-10a5,5 0 0 1 5,-5z"></path><text x=3D"6" y=
+=3D"14">input</text><title>float32[?,64,64,1]</title></g><path class=3D"nod=
+e border" d=3D"M5,0h30.88983154296875a5,5 0 0 1 5,5v10a5,5 0 0 1 -5,5h-30.8=
+8983154296875a5,5 0 0 1 -5,-5v-10a5,5 0 0 1 5,-5z"></path></g><g id=3D"node=
+-name-conv2d_input" class=3D"node graph-node" transform=3D"translate(22.398=
+93341064453,81)" style=3D"opacity: 1;"><g class=3D"node-item node-item-type=
+ node-item-type-data" transform=3D"translate(0,0)"><path d=3D"M5,0h58.38963=
+317871094a5,5 0 0 1 5,5v10a5,5 0 0 1 -5,5h-58.38963317871094a5,5 0 0 1 -5,-=
+5v-10a5,5 0 0 1 5,-5z"></path><text x=3D"6" y=3D"14">InputLayer</text><titl=
+e>conv2d_input</title></g><path class=3D"node border" d=3D"M5,0h58.38963317=
+871094a5,5 0 0 1 5,5v10a5,5 0 0 1 -5,5h-58.38963317871094a5,5 0 0 1 -5,-5v-=
+10a5,5 0 0 1 5,-5z"></path></g><g id=3D"node-name-conv2d" class=3D"node gra=
+ph-node" transform=3D"translate(7.6171875,121)" style=3D"opacity: 1;"><g cl=
+ass=3D"node-item node-item-type node-item-type-layer" transform=3D"translat=
+e(0,0)"><path d=3D"M5,0h87.953125a5,5 0 0 1 5,5v15a0,0 0 0 1 0,0h-97.953125=
+a0,0 0 0 1 0,0v-15a5,5 0 0 1 5,-5z"></path><text x=3D"6" y=3D"14">Conv2D</t=
+ext><title>conv2d</title></g><g class=3D"node-attribute" transform=3D"trans=
+late(0,20)"><path d=3D"M0,0h97.953125a0,0 0 0 1 0,0v30a0,0 0 0 1 0,0h-97.95=
+3125a0,0 0 0 1 0,0v-30a0,0 0 0 1 0,0z"></path><text id=3D"initializer-conv2=
+d/kernel:0" xml:space=3D"preserve" x=3D"6" y=3D"12"><title>float32[3,3,1,32=
+]</title><tspan style=3D"font-weight: bold;">kernel</tspan><tspan>=E3=80=88=
+3=C3=973=C3=971=C3=9732=E3=80=89</tspan></text><text id=3D"initializer-conv=
+2d/bias:0" xml:space=3D"preserve" x=3D"6" y=3D"24"><title>float32[32]</titl=
+e><tspan style=3D"font-weight: bold;">bias</tspan><tspan>=E3=80=8832=E3=80=
+=89</tspan></text><line class=3D"node" x1=3D"0" x2=3D"97.953125" y1=3D"0" y=
+2=3D"0"></line></g><g class=3D"node-item node-item-type node-item-type-acti=
+vation" transform=3D"translate(0,50)"><path d=3D"M0,0h97.953125a0,0 0 0 1 0=
+,0v15a5,5 0 0 1 -5,5h-87.953125a5,5 0 0 1 -5,-5v-15a0,0 0 0 1 0,0z"></path>=
+<text x=3D"6" y=3D"14">ReLU</text></g><line class=3D"node" x1=3D"0" x2=3D"9=
+7.953125" y1=3D"50" y2=3D"50"></line><path class=3D"node border" d=3D"M5,0h=
+87.953125a5,5 0 0 1 5,5v60a5,5 0 0 1 -5,5h-87.953125a5,5 0 0 1 -5,-5v-60a5,=
+5 0 0 1 5,-5z"></path></g><g id=3D"node-name-max_pooling2d" class=3D"node g=
+raph-node" transform=3D"translate(13.072502136230469,211)" style=3D"opacity=
+: 1;"><g class=3D"node-item node-item-type node-item-type-pool" transform=
+=3D"translate(0,0)"><path d=3D"M5,0h77.04249572753906a5,5 0 0 1 5,5v10a5,5 =
+0 0 1 -5,5h-77.04249572753906a5,5 0 0 1 -5,-5v-10a5,5 0 0 1 5,-5z"></path><=
+text x=3D"6" y=3D"14">MaxPooling2D</text><title>max_pooling2d</title></g><p=
+ath class=3D"node border" d=3D"M5,0h77.04249572753906a5,5 0 0 1 5,5v10a5,5 =
+0 0 1 -5,5h-77.04249572753906a5,5 0 0 1 -5,-5v-10a5,5 0 0 1 5,-5z"></path><=
+/g><g id=3D"node-name-conv2d_1" class=3D"node graph-node" transform=3D"tran=
+slate(5.078125,251)" style=3D"opacity: 1;"><g class=3D"node-item node-item-=
+type node-item-type-layer" transform=3D"translate(0,0)"><path d=3D"M5,0h93.=
+03125a5,5 0 0 1 5,5v15a0,0 0 0 1 0,0h-103.03125a0,0 0 0 1 0,0v-15a5,5 0 0 1=
+ 5,-5z"></path><text x=3D"6" y=3D"14">Conv2D</text><title>conv2d_1</title><=
+/g><g class=3D"node-attribute" transform=3D"translate(0,20)"><path d=3D"M0,=
+0h103.03125a0,0 0 0 1 0,0v30a0,0 0 0 1 0,0h-103.03125a0,0 0 0 1 0,0v-30a0,0=
+ 0 0 1 0,0z"></path><text id=3D"initializer-conv2d_1/kernel:0" xml:space=3D=
+"preserve" x=3D"6" y=3D"12"><title>float32[3,3,32,64]</title><tspan style=
+=3D"font-weight: bold;">kernel</tspan><tspan>=E3=80=883=C3=973=C3=9732=C3=
+=9764=E3=80=89</tspan></text><text id=3D"initializer-conv2d_1/bias:0" xml:s=
+pace=3D"preserve" x=3D"6" y=3D"24"><title>float32[64]</title><tspan style=
+=3D"font-weight: bold;">bias</tspan><tspan>=E3=80=8864=E3=80=89</tspan></te=
+xt><line class=3D"node" x1=3D"0" x2=3D"103.03125" y1=3D"0" y2=3D"0"></line>=
+</g><g class=3D"node-item node-item-type node-item-type-activation" transfo=
+rm=3D"translate(0,50)"><path d=3D"M0,0h103.03125a0,0 0 0 1 0,0v15a5,5 0 0 1=
+ -5,5h-93.03125a5,5 0 0 1 -5,-5v-15a0,0 0 0 1 0,0z"></path><text x=3D"6" y=
+=3D"14">ReLU</text></g><line class=3D"node" x1=3D"0" x2=3D"103.03125" y1=3D=
+"50" y2=3D"50"></line><path class=3D"node border" d=3D"M5,0h93.03125a5,5 0 =
+0 1 5,5v60a5,5 0 0 1 -5,5h-93.03125a5,5 0 0 1 -5,-5v-60a5,5 0 0 1 5,-5z"></=
+path></g><g id=3D"node-name-max_pooling2d_1" class=3D"node graph-node" tran=
+sform=3D"translate(13.072502136230469,341)" style=3D"opacity: 1;"><g class=
+=3D"node-item node-item-type node-item-type-pool" transform=3D"translate(0,=
+0)"><path d=3D"M5,0h77.04249572753906a5,5 0 0 1 5,5v10a5,5 0 0 1 -5,5h-77.0=
+4249572753906a5,5 0 0 1 -5,-5v-10a5,5 0 0 1 5,-5z"></path><text x=3D"6" y=
+=3D"14">MaxPooling2D</text><title>max_pooling2d_1</title></g><path class=3D=
+"node border" d=3D"M5,0h77.04249572753906a5,5 0 0 1 5,5v10a5,5 0 0 1 -5,5h-=
+77.04249572753906a5,5 0 0 1 -5,-5v-10a5,5 0 0 1 5,-5z"></path></g><g id=3D"=
+node-name-conv2d_2" class=3D"node graph-node" transform=3D"translate(2.5390=
+625,381)" style=3D"opacity: 1;"><g class=3D"node-item node-item-type node-i=
+tem-type-layer" transform=3D"translate(0,0)"><path d=3D"M5,0h98.109375a5,5 =
+0 0 1 5,5v15a0,0 0 0 1 0,0h-108.109375a0,0 0 0 1 0,0v-15a5,5 0 0 1 5,-5z"><=
+/path><text x=3D"6" y=3D"14">Conv2D</text><title>conv2d_2</title></g><g cla=
+ss=3D"node-attribute" transform=3D"translate(0,20)"><path d=3D"M0,0h108.109=
+375a0,0 0 0 1 0,0v30a0,0 0 0 1 0,0h-108.109375a0,0 0 0 1 0,0v-30a0,0 0 0 1 =
+0,0z"></path><text id=3D"initializer-conv2d_2/kernel:0" xml:space=3D"preser=
+ve" x=3D"6" y=3D"12"><title>float32[3,3,64,128]</title><tspan style=3D"font=
+-weight: bold;">kernel</tspan><tspan>=E3=80=883=C3=973=C3=9764=C3=97128=E3=
+=80=89</tspan></text><text id=3D"initializer-conv2d_2/bias:0" xml:space=3D"=
+preserve" x=3D"6" y=3D"24"><title>float32[128]</title><tspan style=3D"font-=
+weight: bold;">bias</tspan><tspan>=E3=80=88128=E3=80=89</tspan></text><line=
+ class=3D"node" x1=3D"0" x2=3D"108.109375" y1=3D"0" y2=3D"0"></line></g><g =
+class=3D"node-item node-item-type node-item-type-activation" transform=3D"t=
+ranslate(0,50)"><path d=3D"M0,0h108.109375a0,0 0 0 1 0,0v15a5,5 0 0 1 -5,5h=
+-98.109375a5,5 0 0 1 -5,-5v-15a0,0 0 0 1 0,0z"></path><text x=3D"6" y=3D"14=
+">ReLU</text></g><line class=3D"node" x1=3D"0" x2=3D"108.109375" y1=3D"50" =
+y2=3D"50"></line><path class=3D"node border" d=3D"M5,0h98.109375a5,5 0 0 1 =
+5,5v60a5,5 0 0 1 -5,5h-98.109375a5,5 0 0 1 -5,-5v-60a5,5 0 0 1 5,-5z"></pat=
+h></g><g id=3D"node-name-max_pooling2d_2" class=3D"node graph-node" transfo=
+rm=3D"translate(13.072502136230469,471)" style=3D"opacity: 1;"><g class=3D"=
+node-item node-item-type node-item-type-pool" transform=3D"translate(0,0)">=
+<path d=3D"M5,0h77.04249572753906a5,5 0 0 1 5,5v10a5,5 0 0 1 -5,5h-77.04249=
+572753906a5,5 0 0 1 -5,-5v-10a5,5 0 0 1 5,-5z"></path><text x=3D"6" y=3D"14=
+">MaxPooling2D</text><title>max_pooling2d_2</title></g><path class=3D"node =
+border" d=3D"M5,0h77.04249572753906a5,5 0 0 1 5,5v10a5,5 0 0 1 -5,5h-77.042=
+49572753906a5,5 0 0 1 -5,-5v-10a5,5 0 0 1 5,-5z"></path></g><g id=3D"node-n=
+ame-conv2d_3" class=3D"node graph-node" transform=3D"translate(0,511)" styl=
+e=3D"opacity: 1;"><g class=3D"node-item node-item-type node-item-type-layer=
+" transform=3D"translate(0,0)"><path d=3D"M5,0h103.1875a5,5 0 0 1 5,5v15a0,=
+0 0 0 1 0,0h-113.1875a0,0 0 0 1 0,0v-15a5,5 0 0 1 5,-5z"></path><text x=3D"=
+6" y=3D"14">Conv2D</text><title>conv2d_3</title></g><g class=3D"node-attrib=
+ute" transform=3D"translate(0,20)"><path d=3D"M0,0h113.1875a0,0 0 0 1 0,0v3=
+0a0,0 0 0 1 0,0h-113.1875a0,0 0 0 1 0,0v-30a0,0 0 0 1 0,0z"></path><text id=
+=3D"initializer-conv2d_3/kernel:0" xml:space=3D"preserve" x=3D"6" y=3D"12">=
+<title>float32[3,3,128,256]</title><tspan style=3D"font-weight: bold;">kern=
+el</tspan><tspan>=E3=80=883=C3=973=C3=97128=C3=97256=E3=80=89</tspan></text=
+><text id=3D"initializer-conv2d_3/bias:0" xml:space=3D"preserve" x=3D"6" y=
+=3D"24"><title>float32[256]</title><tspan style=3D"font-weight: bold;">bias=
+</tspan><tspan>=E3=80=88256=E3=80=89</tspan></text><line class=3D"node" x1=
+=3D"0" x2=3D"113.1875" y1=3D"0" y2=3D"0"></line></g><g class=3D"node-item n=
+ode-item-type node-item-type-activation" transform=3D"translate(0,50)"><pat=
+h d=3D"M0,0h113.1875a0,0 0 0 1 0,0v15a5,5 0 0 1 -5,5h-103.1875a5,5 0 0 1 -5=
+,-5v-15a0,0 0 0 1 0,0z"></path><text x=3D"6" y=3D"14">ReLU</text></g><line =
+class=3D"node" x1=3D"0" x2=3D"113.1875" y1=3D"50" y2=3D"50"></line><path cl=
+ass=3D"node border" d=3D"M5,0h103.1875a5,5 0 0 1 5,5v60a5,5 0 0 1 -5,5h-103=
+.1875a5,5 0 0 1 -5,-5v-60a5,5 0 0 1 5,-5z"></path></g><g id=3D"node-name-ma=
+x_pooling2d_3" class=3D"node graph-node" transform=3D"translate(13.07250213=
+6230469,601)" style=3D"opacity: 1;"><g class=3D"node-item node-item-type no=
+de-item-type-pool" transform=3D"translate(0,0)"><path d=3D"M5,0h77.04249572=
+753906a5,5 0 0 1 5,5v10a5,5 0 0 1 -5,5h-77.04249572753906a5,5 0 0 1 -5,-5v-=
+10a5,5 0 0 1 5,-5z"></path><text x=3D"6" y=3D"14">MaxPooling2D</text><title=
+>max_pooling2d_3</title></g><path class=3D"node border" d=3D"M5,0h77.042495=
+72753906a5,5 0 0 1 5,5v10a5,5 0 0 1 -5,5h-77.04249572753906a5,5 0 0 1 -5,-5=
+v-10a5,5 0 0 1 5,-5z"></path></g><g id=3D"node-name-conv2d_4" class=3D"node=
+ graph-node" transform=3D"translate(0,641)" style=3D"opacity: 1;"><g class=
+=3D"node-item node-item-type node-item-type-layer" transform=3D"translate(0=
+,0)"><path d=3D"M5,0h103.1875a5,5 0 0 1 5,5v15a0,0 0 0 1 0,0h-113.1875a0,0 =
+0 0 1 0,0v-15a5,5 0 0 1 5,-5z"></path><text x=3D"6" y=3D"14">Conv2D</text><=
+title>conv2d_4</title></g><g class=3D"node-attribute" transform=3D"translat=
+e(0,20)"><path d=3D"M0,0h113.1875a0,0 0 0 1 0,0v30a0,0 0 0 1 0,0h-113.1875a=
+0,0 0 0 1 0,0v-30a0,0 0 0 1 0,0z"></path><text id=3D"initializer-conv2d_4/k=
+ernel:0" xml:space=3D"preserve" x=3D"6" y=3D"12"><title>float32[3,3,256,128=
+]</title><tspan style=3D"font-weight: bold;">kernel</tspan><tspan>=E3=80=88=
+3=C3=973=C3=97256=C3=97128=E3=80=89</tspan></text><text id=3D"initializer-c=
+onv2d_4/bias:0" xml:space=3D"preserve" x=3D"6" y=3D"24"><title>float32[128]=
+</title><tspan style=3D"font-weight: bold;">bias</tspan><tspan>=E3=80=88128=
+=E3=80=89</tspan></text><line class=3D"node" x1=3D"0" x2=3D"113.1875" y1=3D=
+"0" y2=3D"0"></line></g><g class=3D"node-item node-item-type node-item-type=
+-activation" transform=3D"translate(0,50)"><path d=3D"M0,0h113.1875a0,0 0 0=
+ 1 0,0v15a5,5 0 0 1 -5,5h-103.1875a5,5 0 0 1 -5,-5v-15a0,0 0 0 1 0,0z"></pa=
+th><text x=3D"6" y=3D"14">ReLU</text></g><line class=3D"node" x1=3D"0" x2=
+=3D"113.1875" y1=3D"50" y2=3D"50"></line><path class=3D"node border" d=3D"M=
+5,0h103.1875a5,5 0 0 1 5,5v60a5,5 0 0 1 -5,5h-103.1875a5,5 0 0 1 -5,-5v-60a=
+5,5 0 0 1 5,-5z"></path></g><g id=3D"node-name-max_pooling2d_4" class=3D"no=
+de graph-node" transform=3D"translate(13.072502136230469,731)" style=3D"opa=
+city: 1;"><g class=3D"node-item node-item-type node-item-type-pool" transfo=
+rm=3D"translate(0,0)"><path d=3D"M5,0h77.04249572753906a5,5 0 0 1 5,5v10a5,=
+5 0 0 1 -5,5h-77.04249572753906a5,5 0 0 1 -5,-5v-10a5,5 0 0 1 5,-5z"></path=
+><text x=3D"6" y=3D"14">MaxPooling2D</text><title>max_pooling2d_4</title></=
+g><path class=3D"node border" d=3D"M5,0h77.04249572753906a5,5 0 0 1 5,5v10a=
+5,5 0 0 1 -5,5h-77.04249572753906a5,5 0 0 1 -5,-5v-10a5,5 0 0 1 5,-5z"></pa=
+th></g><g id=3D"node-name-flatten" class=3D"node graph-node" transform=3D"t=
+ranslate(31.6640625,771)" style=3D"opacity: 1;"><g class=3D"node-item node-=
+item-type node-item-type-shape" transform=3D"translate(0,0)"><path d=3D"M5,=
+0h39.859375a5,5 0 0 1 5,5v10a5,5 0 0 1 -5,5h-39.859375a5,5 0 0 1 -5,-5v-10a=
+5,5 0 0 1 5,-5z"></path><text x=3D"6" y=3D"14">Flatten</text><title>flatten=
+</title></g><path class=3D"node border" d=3D"M5,0h39.859375a5,5 0 0 1 5,5v1=
+0a5,5 0 0 1 -5,5h-39.859375a5,5 0 0 1 -5,-5v-10a5,5 0 0 1 5,-5z"></path></g=
+><g id=3D"node-name-dense" class=3D"node graph-node" transform=3D"translate=
+(10.1484375,811)" style=3D"opacity: 1;"><g class=3D"node-item node-item-typ=
+e node-item-type-layer" transform=3D"translate(0,0)"><path d=3D"M5,0h82.890=
+625a5,5 0 0 1 5,5v15a0,0 0 0 1 0,0h-92.890625a0,0 0 0 1 0,0v-15a5,5 0 0 1 5=
+,-5z"></path><text x=3D"6" y=3D"14">Dense</text><title>dense</title></g><g =
+class=3D"node-attribute" transform=3D"translate(0,20)"><path d=3D"M0,0h92.8=
+90625a0,0 0 0 1 0,0v30a0,0 0 0 1 0,0h-92.890625a0,0 0 0 1 0,0v-30a0,0 0 0 1=
+ 0,0z"></path><text id=3D"initializer-dense/kernel:0" xml:space=3D"preserve=
+" x=3D"6" y=3D"12"><title>float32[512,150]</title><tspan style=3D"font-weig=
+ht: bold;">kernel</tspan><tspan>=E3=80=88512=C3=97150=E3=80=89</tspan></tex=
+t><text id=3D"initializer-dense/bias:0" xml:space=3D"preserve" x=3D"6" y=3D=
+"24"><title>float32[150]</title><tspan style=3D"font-weight: bold;">bias</t=
+span><tspan>=E3=80=88150=E3=80=89</tspan></text><line class=3D"node" x1=3D"=
+0" x2=3D"92.890625" y1=3D"0" y2=3D"0"></line></g><g class=3D"node-item node=
+-item-type node-item-type-activation" transform=3D"translate(0,50)"><path d=
+=3D"M0,0h92.890625a0,0 0 0 1 0,0v15a5,5 0 0 1 -5,5h-82.890625a5,5 0 0 1 -5,=
+-5v-15a0,0 0 0 1 0,0z"></path><text x=3D"6" y=3D"14">ReLU</text></g><line c=
+lass=3D"node" x1=3D"0" x2=3D"92.890625" y1=3D"50" y2=3D"50"></line><path cl=
+ass=3D"node border" d=3D"M5,0h82.890625a5,5 0 0 1 5,5v60a5,5 0 0 1 -5,5h-82=
+.890625a5,5 0 0 1 -5,-5v-60a5,5 0 0 1 5,-5z"></path></g><g id=3D"node-name-=
+dense_1" class=3D"node graph-node" transform=3D"translate(12.6875,901)" sty=
+le=3D"opacity: 1;"><g class=3D"node-item node-item-type node-item-type-laye=
+r" transform=3D"translate(0,0)"><path d=3D"M5,0h77.8125a5,5 0 0 1 5,5v15a0,=
+0 0 0 1 0,0h-87.8125a0,0 0 0 1 0,0v-15a5,5 0 0 1 5,-5z"></path><text x=3D"6=
+" y=3D"14">Dense</text><title>dense_1</title></g><g class=3D"node-attribute=
+" transform=3D"translate(0,20)"><path d=3D"M0,0h87.8125a0,0 0 0 1 0,0v30a0,=
+0 0 0 1 0,0h-87.8125a0,0 0 0 1 0,0v-30a0,0 0 0 1 0,0z"></path><text id=3D"i=
+nitializer-dense_1/kernel:0" xml:space=3D"preserve" x=3D"6" y=3D"12"><title=
+>float32[150,75]</title><tspan style=3D"font-weight: bold;">kernel</tspan><=
+tspan>=E3=80=88150=C3=9775=E3=80=89</tspan></text><text id=3D"initializer-d=
+ense_1/bias:0" xml:space=3D"preserve" x=3D"6" y=3D"24"><title>float32[75]</=
+title><tspan style=3D"font-weight: bold;">bias</tspan><tspan>=E3=80=8875=E3=
+=80=89</tspan></text><line class=3D"node" x1=3D"0" x2=3D"87.8125" y1=3D"0" =
+y2=3D"0"></line></g><g class=3D"node-item node-item-type node-item-type-act=
+ivation" transform=3D"translate(0,50)"><path d=3D"M0,0h87.8125a0,0 0 0 1 0,=
+0v15a5,5 0 0 1 -5,5h-77.8125a5,5 0 0 1 -5,-5v-15a0,0 0 0 1 0,0z"></path><te=
+xt x=3D"6" y=3D"14">ReLU</text></g><line class=3D"node" x1=3D"0" x2=3D"87.8=
+125" y1=3D"50" y2=3D"50"></line><path class=3D"node border" d=3D"M5,0h77.81=
+25a5,5 0 0 1 5,5v60a5,5 0 0 1 -5,5h-77.8125a5,5 0 0 1 -5,-5v-60a5,5 0 0 1 5=
+,-5z"></path></g><g id=3D"node-name-dense_2" class=3D"node graph-node" tran=
+sform=3D"translate(15.2265625,991)" style=3D"opacity: 1;"><g class=3D"node-=
+item node-item-type node-item-type-layer" transform=3D"translate(0,0)"><pat=
+h d=3D"M5,0h72.734375a5,5 0 0 1 5,5v15a0,0 0 0 1 0,0h-82.734375a0,0 0 0 1 0=
+,0v-15a5,5 0 0 1 5,-5z"></path><text x=3D"6" y=3D"14">Dense</text><title>de=
+nse_2</title></g><g class=3D"node-attribute" transform=3D"translate(0,20)">=
+<path d=3D"M0,0h82.734375a0,0 0 0 1 0,0v30a0,0 0 0 1 0,0h-82.734375a0,0 0 0=
+ 1 0,0v-30a0,0 0 0 1 0,0z"></path><text id=3D"initializer-dense_2/kernel:0"=
+ xml:space=3D"preserve" x=3D"6" y=3D"12"><title>float32[75,20]</title><tspa=
+n style=3D"font-weight: bold;">kernel</tspan><tspan>=E3=80=8875=C3=9720=E3=
+=80=89</tspan></text><text id=3D"initializer-dense_2/bias:0" xml:space=3D"p=
+reserve" x=3D"6" y=3D"24"><title>float32[20]</title><tspan style=3D"font-we=
+ight: bold;">bias</tspan><tspan>=E3=80=8820=E3=80=89</tspan></text><line cl=
+ass=3D"node" x1=3D"0" x2=3D"82.734375" y1=3D"0" y2=3D"0"></line></g><g clas=
+s=3D"node-item node-item-type node-item-type-activation" transform=3D"trans=
+late(0,50)"><path d=3D"M0,0h82.734375a0,0 0 0 1 0,0v15a5,5 0 0 1 -5,5h-72.7=
+34375a5,5 0 0 1 -5,-5v-15a0,0 0 0 1 0,0z"></path><text x=3D"6" y=3D"14">Sof=
+tmax</text></g><line class=3D"node" x1=3D"0" x2=3D"82.734375" y1=3D"50" y2=
+=3D"50"></line><path class=3D"node border" d=3D"M5,0h72.734375a5,5 0 0 1 5,=
+5v60a5,5 0 0 1 -5,5h-72.734375a5,5 0 0 1 -5,-5v-60a5,5 0 0 1 5,-5z"></path>=
+</g><g class=3D"node" transform=3D"translate(28.78125,1081)" style=3D"opaci=
+ty: 1;"><g class=3D"node-item graph-item-output" transform=3D"translate(0,0=
+)"><path d=3D"M5,0h45.625a5,5 0 0 1 5,5v10a5,5 0 0 1 -5,5h-45.625a5,5 0 0 1=
+ -5,-5v-10a5,5 0 0 1 5,-5z"></path><text x=3D"6" y=3D"14">dense_2</text></g=
+><path class=3D"node border" d=3D"M5,0h45.625a5,5 0 0 1 5,5v10a5,5 0 0 1 -5=
+,5h-45.625a5,5 0 0 1 -5,-5v-10a5,5 0 0 1 5,-5z"></path></g></g></g></svg>
+</div>
+<div id=3D"sidebar" class=3D"sidebar" style=3D"width: 0px;"><h1 class=3D"si=
+debar-title">NODE PROPERTIES</h1><a class=3D"sidebar-closebutton" id=3D"sid=
+ebar-closebutton" style=3D"color: rgb(248, 248, 248);">=C3=97</a><div class=
+=3D"sidebar-content" id=3D"sidebar-content"><div class=3D"sidebar-view-item=
+"><div class=3D"sidebar-view-item-name"><input type=3D"text" value=3D"type"=
+ title=3D"type" readonly=3D"true"></div><div class=3D"sidebar-view-item-val=
+ue-list"><div class=3D"sidebar-view-item-value"><div class=3D"sidebar-view-=
+item-value-expander">?</div><div class=3D"sidebar-view-item-value-line">Max=
+Pooling2D</div></div></div></div><div class=3D"sidebar-view-item"><div clas=
+s=3D"sidebar-view-item-name"><input type=3D"text" value=3D"module" title=3D=
+"module" readonly=3D"true"></div><div class=3D"sidebar-view-item-value-list=
+"><div class=3D"sidebar-view-item-value"><div class=3D"sidebar-view-item-va=
+lue-line">tensorflow.keras.layers</div></div></div></div><div class=3D"side=
+bar-view-item"><div class=3D"sidebar-view-item-name"><input type=3D"text" v=
+alue=3D"name" title=3D"name" readonly=3D"true"></div><div class=3D"sidebar-=
+view-item-value-list"><div class=3D"sidebar-view-item-value"><div class=3D"=
+sidebar-view-item-value-line">max_pooling2d</div></div></div></div><div cla=
+ss=3D"sidebar-view-header">Attributes</div><div class=3D"sidebar-view-item"=
+><div class=3D"sidebar-view-item-name"><input type=3D"text" value=3D"data_f=
+ormat" title=3D"data_format" readonly=3D"true"></div><div class=3D"sidebar-=
+view-item-value-list"><div class=3D"sidebar-view-item-value"><div class=3D"=
+sidebar-view-item-value-line">channels_last</div></div></div></div><div cla=
+ss=3D"sidebar-view-item"><div class=3D"sidebar-view-item-name"><input type=
+=3D"text" value=3D"dtype" title=3D"dtype" readonly=3D"true"></div><div clas=
+s=3D"sidebar-view-item-value-list"><div class=3D"sidebar-view-item-value"><=
+div class=3D"sidebar-view-item-value-line">float32</div></div></div></div><=
+div class=3D"sidebar-view-item"><div class=3D"sidebar-view-item-name"><inpu=
+t type=3D"text" value=3D"padding" title=3D"padding" readonly=3D"true"></div=
+><div class=3D"sidebar-view-item-value-list"><div class=3D"sidebar-view-ite=
+m-value"><div class=3D"sidebar-view-item-value-line">valid</div></div></div=
+></div><div class=3D"sidebar-view-item"><div class=3D"sidebar-view-item-nam=
+e"><input type=3D"text" value=3D"pool_size" title=3D"pool_size" readonly=3D=
+"true"></div><div class=3D"sidebar-view-item-value-list"><div class=3D"side=
+bar-view-item-value"><div class=3D"sidebar-view-item-value-line">2, 2</div>=
+</div></div></div><div class=3D"sidebar-view-item"><div class=3D"sidebar-vi=
+ew-item-name"><input type=3D"text" value=3D"strides" title=3D"strides" read=
+only=3D"true"></div><div class=3D"sidebar-view-item-value-list"><div class=
+=3D"sidebar-view-item-value"><div class=3D"sidebar-view-item-value-line">2,=
+ 2</div></div></div></div><div class=3D"sidebar-view-item"><div class=3D"si=
+debar-view-item-name"><input type=3D"text" value=3D"trainable" title=3D"tra=
+inable" readonly=3D"true"></div><div class=3D"sidebar-view-item-value-list"=
+><div class=3D"sidebar-view-item-value"><div class=3D"sidebar-view-item-val=
+ue-expander">+</div><div class=3D"sidebar-view-item-value-line">true</div><=
+/div></div></div><div class=3D"sidebar-view-header">Inputs</div><div class=
+=3D"sidebar-view-item"><div class=3D"sidebar-view-item-name"><input type=3D=
+"text" value=3D"input" title=3D"input" readonly=3D"true"></div><div class=
+=3D"sidebar-view-item-value-list"><div class=3D"sidebar-view-item-value"><d=
+iv class=3D"sidebar-view-item-value-line"><span class=3D"sidebar-view-item-=
+value-line-content">name: <b>conv2d</b></span></div></div></div></div><div =
+class=3D"sidebar-view-header">Outputs</div><div class=3D"sidebar-view-item"=
+><div class=3D"sidebar-view-item-name"><input type=3D"text" value=3D"output=
+" title=3D"output" readonly=3D"true"></div><div class=3D"sidebar-view-item-=
+value-list"><div class=3D"sidebar-view-item-value"><div class=3D"sidebar-vi=
+ew-item-value-line"><span class=3D"sidebar-view-item-value-line-content">na=
+me: <b>max_pooling2d</b></span></div></div></div></div><div class=3D"sideba=
+r-view-separator"></div></div></div>
+<div id=3D"toolbar" class=3D"toolbar">
+    <button id=3D"menu-button" class=3D"toolbar-button" title=3D"Menu">
+        <svg class=3D"icon" viewBox=3D"0 0 100 100">
+            <rect class=3D"border" x=3D"12" y=3D"12" width=3D"76" height=3D=
+"76" rx=3D"16" ry=3D"16" stroke-width=3D"8"></rect>
+            <line class=3D"border" x1=3D"30" y1=3D"37" x2=3D"70" y2=3D"37" =
+stroke-width=3D"8" stroke-linecap=3D"round" stroke=3D"#fff"></line>
+            <line class=3D"border" x1=3D"30" y1=3D"50" x2=3D"70" y2=3D"50" =
+stroke-width=3D"8" stroke-linecap=3D"round" stroke=3D"#fff"></line>
+            <line class=3D"border" x1=3D"30" y1=3D"63" x2=3D"70" y2=3D"63" =
+stroke-width=3D"8" stroke-linecap=3D"round" stroke=3D"#fff"></line>
+            <rect class=3D"stroke" x=3D"12" y=3D"12" width=3D"76" height=3D=
+"76" rx=3D"16" ry=3D"16" stroke-width=3D"4"></rect>
+            <line class=3D"stroke" x1=3D"30" y1=3D"37" x2=3D"70" y2=3D"37" =
+stroke-width=3D"4" stroke-linecap=3D"round"></line>
+            <line class=3D"stroke" x1=3D"30" y1=3D"50" x2=3D"70" y2=3D"50" =
+stroke-width=3D"4" stroke-linecap=3D"round"></line>
+            <line class=3D"stroke" x1=3D"30" y1=3D"63" x2=3D"70" y2=3D"63" =
+stroke-width=3D"4" stroke-linecap=3D"round"></line>
+        </svg>
+    </button>
+    <button id=3D"zoom-in-button" class=3D"toolbar-button" title=3D"Zoom In=
+">
+        <svg class=3D"icon" viewBox=3D"0 0 100 100">
+            <circle class=3D"border" cx=3D"50" cy=3D"50" r=3D"35" stroke-wi=
+dth=3D"8" stroke=3D"#fff"></circle>
+            <line class=3D"border" x1=3D"50" y1=3D"38" x2=3D"50" y2=3D"62" =
+stroke-width=3D"8" stroke-linecap=3D"round" stroke=3D"#fff"></line>
+            <line class=3D"border" x1=3D"38" y1=3D"50" x2=3D"62" y2=3D"50" =
+stroke-width=3D"8" stroke-linecap=3D"round" stroke=3D"#fff"></line>
+            <line class=3D"border" x1=3D"78" y1=3D"78" x2=3D"82" y2=3D"82" =
+stroke-width=3D"12" stroke-linecap=3D"square" stroke=3D"#fff"></line>
+            <circle class=3D"stroke" cx=3D"50" cy=3D"50" r=3D"35" stroke-wi=
+dth=3D"4"></circle>
+            <line class=3D"stroke" x1=3D"50" y1=3D"38" x2=3D"50" y2=3D"62" =
+stroke-width=3D"4" stroke-linecap=3D"round"></line>
+            <line class=3D"stroke" x1=3D"38" y1=3D"50" x2=3D"62" y2=3D"50" =
+stroke-width=3D"4" stroke-linecap=3D"round"></line>
+            <line class=3D"stroke" x1=3D"78" y1=3D"78" x2=3D"82" y2=3D"82" =
+stroke-width=3D"8" stroke-linecap=3D"square"></line>
+        </svg>
+    </button>
+    <button id=3D"zoom-out-button" class=3D"toolbar-button" title=3D"Zoom O=
+ut">
+        <svg class=3D"icon" viewBox=3D"0 0 100 100">
+            <circle class=3D"border" cx=3D"50" cy=3D"50" r=3D"35" stroke-wi=
+dth=3D"8" stroke=3D"#fff"></circle>
+            <line class=3D"border" x1=3D"38" y1=3D"50" x2=3D"62" y2=3D"50" =
+stroke-width=3D"8" stroke-linecap=3D"round" stroke=3D"#fff"></line>
+            <line class=3D"border" x1=3D"78" y1=3D"78" x2=3D"82" y2=3D"82" =
+stroke-width=3D"12" stroke-linecap=3D"square" stroke=3D"#fff"></line>
+            <circle class=3D"stroke" cx=3D"50" cy=3D"50" r=3D"35" stroke-wi=
+dth=3D"4"></circle>
+            <line class=3D"stroke" x1=3D"38" y1=3D"50" x2=3D"62" y2=3D"50" =
+stroke-width=3D"4" stroke-linecap=3D"round"></line>
+            <line class=3D"stroke" x1=3D"78" y1=3D"78" x2=3D"82" y2=3D"82" =
+stroke-width=3D"8" stroke-linecap=3D"square"></line>
+        </svg>
+    </button>
+    <button id=3D"back-button" class=3D"toolbar-back-button" title=3D"Back"=
+ style=3D"opacity: 0;">
+        =E2=9D=AE
+    </button>
+    <button id=3D"name-button" class=3D"toolbar-name-button" title=3D"Name"=
+ style=3D"opacity: 0;">
+    </button>
+    <div id=3D"menu-dropdown" class=3D"dropdown" style=3D"display: none;"><=
+/div>
+</div>
+<div id=3D"transparent" class=3D"transparent"></div>
+<div class=3D"center logo">
+    <a href=3D"https://github.com/lutzroeder/netron" target=3D"blank_">
+        <svg class=3D"center logo-text" viewBox=3D"0 0 5120 1024">
+            <g transform=3D"scale(9) translate(-44,-15)">
+                <g transform=3D"matrix(100,0,0,100,60.9965,126)">
+                    <path class=3D"logo-glyph" d=3D"M0.089,0L0.089,-0.745L0=
+.595,-0.147L0.595,-0.715L0.656,-0.715L0.656,0.021L0.15,-0.578L0.15,0L0.089,=
+0Z" style=3D"fill-rule:nonzero;"></path>
+                </g>
+                <g transform=3D"matrix(100,0,0,100,164.341,126)">
+                    <path class=3D"logo-glyph" d=3D"M0.089,0L0.089,-0.715L0=
+.443,-0.715L0.443,-0.654L0.154,-0.654L0.154,-0.43L0.443,-0.43L0.443,-0.369L=
+0.154,-0.369L0.154,-0.061L0.443,-0.061L0.443,0L0.089,0Z" style=3D"fill-rule=
+:nonzero;"></path>
+                </g>
+                <g transform=3D"matrix(100,0,0,100,244.491,126)">
+                    <path class=3D"logo-glyph" d=3D"M0.216,0L0.216,-0.654L0=
+.019,-0.654L0.019,-0.715L0.478,-0.715L0.478,-0.654L0.281,-0.654L0.281,0L0.2=
+16,0Z" style=3D"fill-rule:nonzero;"></path>
+                </g>
+                <g transform=3D"matrix(100,0,0,100,323.031,126)">
+                    <path class=3D"logo-glyph" d=3D"M0.154,-0.658L0.154,-0.=
+394L0.219,-0.394C0.28,-0.394 0.322,-0.404 0.346,-0.423C0.37,-0.442 0.382,-0=
+.475 0.382,-0.522C0.382,-0.571 0.369,-0.606 0.345,-0.627C0.32,-0.648 0.278,=
+-0.658 0.219,-0.658L0.154,-0.658ZM0.523,0L0.444,0L0.193,-0.341L0.154,-0.341=
+L0.154,0L0.089,0L0.089,-0.715L0.22,-0.715C0.298,-0.715 0.356,-0.699 0.394,-=
+0.667C0.433,-0.634 0.452,-0.585 0.452,-0.52C0.452,-0.464 0.436,-0.421 0.403=
+,-0.389C0.37,-0.357 0.324,-0.341 0.266,-0.341L0.523,0Z" style=3D"fill-rule:=
+nonzero;"></path>
+                </g>
+                <g transform=3D"matrix(100,0,0,100,520.979,126)">
+                    <path class=3D"logo-glyph" d=3D"M0.089,0L0.089,-0.745L0=
+.595,-0.147L0.595,-0.715L0.656,-0.715L0.656,0.021L0.15,-0.578L0.15,0L0.089,=
+0Z" style=3D"fill-rule:nonzero;"></path>
+                </g>
+            </g>
+        </svg>
+        <svg class=3D"center logo-icon" viewBox=3D"0 0 1024 1024">
+            <circle class=3D"logo-stroke" cx=3D"512" cy=3D"512" r=3D"431" f=
+ill=3D"none" stroke-width=3D"32"></circle>
+            <circle class=3D"logo-border" cx=3D"512" cy=3D"512" r=3D"450" f=
+ill=3D"none" stroke-width=3D"6"></circle>
+            <circle class=3D"logo-border" cx=3D"512" cy=3D"512" r=3D"412" f=
+ill=3D"none" stroke-width=3D"6"></circle>
+            <line class=3D"logo-stroke" x1=3D"296" y1=3D"392" x2=3D"540" y2=
+=3D"280" stroke-width=3D"12"></line>
+            <line class=3D"logo-stroke" x1=3D"296" y1=3D"632" x2=3D"540" y2=
+=3D"280" stroke-width=3D"12"></line>
+            <line class=3D"logo-stroke" x1=3D"296" y1=3D"392" x2=3D"540" y2=
+=3D"435" stroke-width=3D"12"></line>
+            <line class=3D"logo-stroke" x1=3D"296" y1=3D"632" x2=3D"540" y2=
+=3D"435" stroke-width=3D"12"></line>
+            <line class=3D"logo-stroke" x1=3D"296" y1=3D"392" x2=3D"540" y2=
+=3D"590" stroke-width=3D"12"></line>
+            <line class=3D"logo-stroke" x1=3D"296" y1=3D"632" x2=3D"540" y2=
+=3D"590" stroke-width=3D"12"></line>
+            <line class=3D"logo-stroke" x1=3D"296" y1=3D"392" x2=3D"540" y2=
+=3D"744" stroke-width=3D"12"></line>
+            <line class=3D"logo-stroke" x1=3D"296" y1=3D"632" x2=3D"540" y2=
+=3D"744" stroke-width=3D"12"></line>
+            <line class=3D"logo-stroke" x1=3D"540" y1=3D"280" x2=3D"785" y2=
+=3D"512" stroke-width=3D"12"></line>
+            <line class=3D"logo-stroke" x1=3D"540" y1=3D"590" x2=3D"785" y2=
+=3D"512" stroke-width=3D"12"></line>
+            <line class=3D"logo-stroke" x1=3D"540" y1=3D"435" x2=3D"785" y2=
+=3D"512" stroke-width=3D"12"></line>
+            <line class=3D"logo-stroke" x1=3D"540" y1=3D"744" x2=3D"785" y2=
+=3D"512" stroke-width=3D"12"></line>
+            <g transform=3D"translate(296, 392)">
+                <circle class=3D"logo-fill" cx=3D"0" cy=3D"0" r=3D"51"></ci=
+rcle>
+                <circle class=3D"logo-border" cx=3D"0" cy=3D"0" r=3D"51" fi=
+ll=3D"none" stroke-width=3D"6"></circle>
+            </g>
+            <g transform=3D"translate(296, 632)">
+                <circle class=3D"logo-fill" cx=3D"0" cy=3D"0" r=3D"51"></ci=
+rcle>
+                <circle class=3D"logo-border" cx=3D"0" cy=3D"0" r=3D"51" fi=
+ll=3D"none" stroke-width=3D"6"></circle>
+            </g>
+            <g transform=3D"translate(540, 280)">
+                <circle class=3D"logo-fill" cx=3D"0" cy=3D"0" r=3D"51"></ci=
+rcle>
+                <circle class=3D"logo-border" cx=3D"0" cy=3D"0" r=3D"51" fi=
+ll=3D"none" stroke-width=3D"6"></circle>
+            </g>
+            <g transform=3D"translate(540, 435)">
+                <circle class=3D"logo-fill" cx=3D"0" cy=3D"0" r=3D"51"></ci=
+rcle>
+                <circle class=3D"logo-border" cx=3D"0" cy=3D"0" r=3D"51" fi=
+ll=3D"none" stroke-width=3D"6"></circle>
+            </g>
+            <g transform=3D"translate(540, 590)">
+                <circle class=3D"logo-fill" cx=3D"0" cy=3D"0" r=3D"51"></ci=
+rcle>
+                <circle class=3D"logo-border" cx=3D"0" cy=3D"0" r=3D"51" fi=
+ll=3D"none" stroke-width=3D"6"></circle>
+            </g>
+            <g transform=3D"translate(540, 744)">
+                <circle class=3D"logo-fill" cx=3D"0" cy=3D"0" r=3D"51"></ci=
+rcle>
+                <circle class=3D"logo-border" cx=3D"0" cy=3D"0" r=3D"51" fi=
+ll=3D"none" stroke-width=3D"6"></circle>
+            </g>
+            <g transform=3D"translate(785, 512)">
+                <circle class=3D"logo-fill" cx=3D"0" cy=3D"0" r=3D"51"></ci=
+rcle>
+                <circle class=3D"logo-border" cx=3D"0" cy=3D"0" r=3D"51" fi=
+ll=3D"none" stroke-width=3D"6"></circle>
+            </g>
+        </svg>
+        <svg id=3D"logo-spinner" class=3D"center logo-spinner" viewBox=3D"0=
+ 0 1024 1024">
+            <g transform=3D"translate(512, 512)" style=3D"opacity: 1">
+                <path class=3D"logo-spinner-stroke" d=3D"M-431,0 A-431,-431=
+ 0 0,1 0,-431" stroke-width=3D"24" fill=3D"None"></path>
+            </g>
+        </svg>
+    </a>
+    <a href=3D"https://www.lutzroeder.com/" target=3D"blank_">
+        <svg class=3D"center logo-name" viewBox=3D"0 0 5120 300">
+            <g transform=3D"scale(5.8) translate(20, 0)">
+                <g transform=3D"matrix(30,0,0,30,18.9123,38)">
+                    <path class=3D"logo-glyph" d=3D"M0.089,-0L0.089,-0.715L=
+0.154,-0.715L0.154,-0.061L0.399,-0.061L0.399,-0L0.089,-0Z" style=3D"fill-ru=
+le:nonzero;"></path>
+                </g>
+                <g transform=3D"matrix(30,0,0,30,46.7613,38)">
+                    <path class=3D"logo-glyph" d=3D"M0.086,-0.715L0.15,-0.7=
+15L0.15,-0.248C0.15,-0.177 0.166,-0.125 0.198,-0.091C0.23,-0.056 0.28,-0.03=
+9 0.346,-0.039C0.412,-0.039 0.46,-0.056 0.493,-0.091C0.525,-0.125 0.541,-0.=
+177 0.541,-0.248L0.541,-0.715L0.606,-0.715L0.606,-0.269C0.606,-0.172 0.584,=
+-0.1 0.542,-0.052C0.499,-0.005 0.433,0.019 0.346,0.019C0.259,0.019 0.193,-0=
+.005 0.15,-0.052C0.107,-0.1 0.086,-0.172 0.086,-0.269L0.086,-0.715Z" style=
+=3D"fill-rule:nonzero;"></path>
+                </g>
+                <g transform=3D"matrix(30,0,0,30,83.5133,38)">
+                    <path class=3D"logo-glyph" d=3D"M0.216,-0L0.216,-0.654L=
+0.019,-0.654L0.019,-0.715L0.478,-0.715L0.478,-0.654L0.281,-0.654L0.281,-0L0=
+.216,-0Z" style=3D"fill-rule:nonzero;"></path>
+                </g>
+                <g transform=3D"matrix(30,0,0,30,114.421,38)">
+                    <path class=3D"logo-glyph" d=3D"M0.012,-0L0.437,-0.656L=
+0.074,-0.656L0.074,-0.715L0.548,-0.715L0.125,-0.06L0.505,-0.06L0.505,-0L0.0=
+12,-0Z" style=3D"fill-rule:nonzero;"></path>
+                </g>
+                <g transform=3D"matrix(30,0,0,30,171.777,38)">
+                    <path class=3D"logo-glyph" d=3D"M0.154,-0.658L0.154,-0.=
+394L0.219,-0.394C0.28,-0.394 0.322,-0.404 0.346,-0.423C0.37,-0.442 0.382,-0=
+.475 0.382,-0.522C0.382,-0.571 0.369,-0.606 0.345,-0.627C0.32,-0.648 0.278,=
+-0.658 0.219,-0.658L0.154,-0.658ZM0.523,-0L0.444,-0L0.193,-0.341L0.154,-0.3=
+41L0.154,-0L0.089,-0L0.089,-0.715L0.22,-0.715C0.298,-0.715 0.356,-0.699 0.3=
+94,-0.667C0.433,-0.634 0.452,-0.585 0.452,-0.52C0.452,-0.464 0.436,-0.421 0=
+.403,-0.389C0.37,-0.357 0.324,-0.341 0.266,-0.341L0.523,-0Z" style=3D"fill-=
+rule:nonzero;"></path>
+                </g>
+                <g transform=3D"matrix(30,0,0,30,203.607,38)">
+                    <path class=3D"logo-glyph" d=3D"M0.437,-0.039C0.479,-0.=
+039 0.519,-0.047 0.557,-0.063C0.595,-0.078 0.629,-0.101 0.659,-0.131C0.689,=
+-0.161 0.712,-0.196 0.727,-0.234C0.743,-0.273 0.751,-0.313 0.751,-0.356C0.7=
+51,-0.399 0.743,-0.44 0.728,-0.478C0.712,-0.516 0.689,-0.55 0.659,-0.581C0.=
+63,-0.611 0.596,-0.634 0.558,-0.649C0.52,-0.665 0.48,-0.673 0.437,-0.673C0.=
+395,-0.673 0.355,-0.665 0.317,-0.649C0.28,-0.634 0.246,-0.611 0.216,-0.581C=
+0.186,-0.55 0.163,-0.516 0.147,-0.478C0.132,-0.44 0.124,-0.399 0.124,-0.356=
+C0.124,-0.313 0.132,-0.272 0.147,-0.234C0.163,-0.196 0.186,-0.161 0.216,-0.=
+131C0.246,-0.101 0.279,-0.078 0.316,-0.062C0.354,-0.047 0.394,-0.039 0.437,=
+-0.039ZM0.82,-0.356C0.82,-0.306 0.81,-0.258 0.791,-0.212C0.772,-0.167 0.744=
+,-0.126 0.708,-0.091C0.671,-0.055 0.63,-0.028 0.583,-0.009C0.537,0.01 0.488=
+,0.019 0.437,0.019C0.386,0.019 0.337,0.01 0.291,-0.009C0.245,-0.028 0.203,-=
+0.055 0.167,-0.091C0.131,-0.127 0.103,-0.168 0.084,-0.213C0.065,-0.258 0.05=
+5,-0.306 0.055,-0.356C0.055,-0.407 0.065,-0.455 0.084,-0.501C0.103,-0.546 0=
+.131,-0.587 0.167,-0.623C0.203,-0.659 0.244,-0.685 0.29,-0.704C0.335,-0.722=
+ 0.385,-0.731 0.437,-0.731C0.49,-0.731 0.539,-0.722 0.585,-0.703C0.631,-0.6=
+85 0.672,-0.658 0.708,-0.623C0.744,-0.587 0.772,-0.546 0.791,-0.501C0.81,-0=
+.455 0.82,-0.407 0.82,-0.356Z" style=3D"fill-rule:nonzero;"></path>
+                </g>
+                <g transform=3D"matrix(30,0,0,30,245.853,38)">
+                    <path class=3D"logo-glyph" d=3D"M0.089,-0L0.089,-0.715L=
+0.443,-0.715L0.443,-0.654L0.154,-0.654L0.154,-0.43L0.443,-0.43L0.443,-0.369=
+L0.154,-0.369L0.154,-0.061L0.443,-0.061L0.443,-0L0.089,-0Z" style=3D"fill-r=
+ule:nonzero;"></path>
+                </g>
+                <g transform=3D"matrix(30,0,0,30,277.243,38)">
+                    <path class=3D"logo-glyph" d=3D"M0.154,-0.056L0.245,-0.=
+056C0.319,-0.056 0.371,-0.06 0.402,-0.069C0.433,-0.077 0.459,-0.091 0.481,-=
+0.111C0.511,-0.139 0.534,-0.174 0.549,-0.215C0.564,-0.257 0.572,-0.305 0.57=
+2,-0.358C0.572,-0.413 0.564,-0.461 0.549,-0.502C0.533,-0.544 0.51,-0.578 0.=
+48,-0.605C0.457,-0.625 0.429,-0.64 0.396,-0.648C0.364,-0.657 0.306,-0.661 0=
+.224,-0.661L0.154,-0.661L0.154,-0.056ZM0.089,-0L0.089,-0.715L0.2,-0.715C0.2=
+99,-0.715 0.37,-0.71 0.412,-0.7C0.453,-0.69 0.489,-0.674 0.519,-0.65C0.559,=
+-0.618 0.589,-0.578 0.61,-0.528C0.631,-0.478 0.641,-0.421 0.641,-0.357C0.64=
+1,-0.293 0.631,-0.236 0.61,-0.186C0.589,-0.136 0.559,-0.096 0.52,-0.066C0.4=
+89,-0.042 0.454,-0.025 0.414,-0.015C0.374,-0.005 0.31,-0 0.222,-0L0.089,-0Z=
+" style=3D"fill-rule:nonzero;"></path>
+                </g>
+                <g transform=3D"matrix(30,0,0,30,314.142,38)">
+                    <path class=3D"logo-glyph" d=3D"M0.089,-0L0.089,-0.715L=
+0.443,-0.715L0.443,-0.654L0.154,-0.654L0.154,-0.43L0.443,-0.43L0.443,-0.369=
+L0.154,-0.369L0.154,-0.061L0.443,-0.061L0.443,-0L0.089,-0Z" style=3D"fill-r=
+ule:nonzero;"></path>
+                </g>
+                <g transform=3D"matrix(30,0,0,30,345.532,38)">
+                    <path class=3D"logo-glyph" d=3D"M0.154,-0.658L0.154,-0.=
+394L0.219,-0.394C0.28,-0.394 0.322,-0.404 0.346,-0.423C0.37,-0.442 0.382,-0=
+.475 0.382,-0.522C0.382,-0.571 0.369,-0.606 0.345,-0.627C0.32,-0.648 0.278,=
+-0.658 0.219,-0.658L0.154,-0.658ZM0.523,-0L0.444,-0L0.193,-0.341L0.154,-0.3=
+41L0.154,-0L0.089,-0L0.089,-0.715L0.22,-0.715C0.298,-0.715 0.356,-0.699 0.3=
+94,-0.667C0.433,-0.634 0.452,-0.585 0.452,-0.52C0.452,-0.464 0.436,-0.421 0=
+.403,-0.389C0.37,-0.357 0.324,-0.341 0.266,-0.341L0.523,-0Z" style=3D"fill-=
+rule:nonzero;"></path>
+                </g>
+                <g transform=3D"matrix(30,0,0,30,376.911,38)">
+                    <path class=3D"logo-glyph" d=3D"M0.06,-0.468L0.155,-0.7=
+31L0.228,-0.699L0.1,-0.452L0.06,-0.468Z" style=3D"fill-rule:nonzero;"></pat=
+h>
+                </g>
+                <g transform=3D"matrix(30,0,0,30,401.549,38)">
+                    <path class=3D"logo-glyph" d=3D"M0.034,-0.12L0.09,-0.15=
+C0.1,-0.115 0.118,-0.087 0.144,-0.068C0.169,-0.049 0.2,-0.039 0.236,-0.039C=
+0.281,-0.039 0.316,-0.052 0.342,-0.079C0.367,-0.106 0.38,-0.143 0.38,-0.19C=
+0.38,-0.224 0.371,-0.253 0.354,-0.276C0.337,-0.299 0.3,-0.325 0.244,-0.355C=
+0.172,-0.393 0.124,-0.427 0.101,-0.456C0.077,-0.485 0.065,-0.519 0.065,-0.5=
+6C0.065,-0.611 0.082,-0.652 0.116,-0.684C0.151,-0.716 0.195,-0.732 0.25,-0.=
+732C0.286,-0.732 0.317,-0.724 0.344,-0.709C0.37,-0.694 0.392,-0.671 0.408,-=
+0.641L0.358,-0.611C0.347,-0.631 0.333,-0.647 0.314,-0.658C0.295,-0.668 0.27=
+2,-0.674 0.246,-0.674C0.211,-0.674 0.183,-0.663 0.162,-0.643C0.141,-0.622 0=
+.131,-0.594 0.131,-0.559C0.131,-0.509 0.172,-0.462 0.255,-0.419C0.27,-0.411=
+ 0.281,-0.405 0.289,-0.401C0.35,-0.367 0.391,-0.336 0.411,-0.306C0.432,-0.2=
+76 0.442,-0.237 0.442,-0.19C0.442,-0.126 0.423,-0.075 0.386,-0.037C0.348,0 =
+0.297,0.019 0.233,0.019C0.186,0.019 0.146,0.007 0.113,-0.016C0.079,-0.039 0=
+.053,-0.074 0.034,-0.12Z" style=3D"fill-rule:nonzero;"></path>
+                </g>
+            </g>
+        </svg>
+    </a>
+    <div class=3D"center logo-message">
+        <div style=3D"height: 30px; text-align: center;">Version <span id=
+=3D"version" class=3D"select">5.7.0</span></div>
+        <div style=3D"height: 30px; text-align: center;">Copyright =C2=A9 <=
+a href=3D"https://www.lutzroeder.com/" target=3D"blank_">Lutz Roeder</a></d=
+iv>
+    </div>
+    <a id=3D"logo-github" class=3D"center logo-github" href=3D"https://gith=
+ub.com/lutzroeder/netron" target=3D"blank_">
+        <svg viewBox=3D"0 0 438.549 438.549">
+            <path class=3D"logo-fill" d=3D"M409.132,114.573c-19.608-33.596-=
+46.205-60.194-79.798-79.8C295.736,15.166,259.057,5.365,219.271,5.365
+                c-39.781,0-76.472,9.804-110.063,29.408c-33.596,19.605-60.19=
+2,46.204-79.8,79.8C9.803,148.168,0,184.854,0,224.63
+                c0,47.78,13.94,90.745,41.827,128.906c27.884,38.164,63.906,6=
+4.572,108.063,79.227c5.14,0.954,8.945,0.283,11.419-1.996
+                c2.475-2.282,3.711-5.14,3.711-8.562c0-0.571-0.049-5.708-0.1=
+44-15.417c-0.098-9.709-0.144-18.179-0.144-25.406l-6.567,1.136
+                c-4.187,0.767-9.469,1.092-15.846,1c-6.374-0.089-12.991-0.75=
+7-19.842-1.999c-6.854-1.231-13.229-4.086-19.13-8.559
+                c-5.898-4.473-10.085-10.328-12.56-17.556l-2.855-6.57c-1.903=
+-4.374-4.899-9.233-8.992-14.559
+                c-4.093-5.331-8.232-8.945-12.419-10.848l-1.999-1.431c-1.332=
+-0.951-2.568-2.098-3.711-3.429c-1.142-1.331-1.997-2.663-2.568-3.997
+                c-0.572-1.335-0.098-2.43,1.427-3.289c1.525-0.859,4.281-1.27=
+6,8.28-1.276l5.708,0.853c3.807,0.763,8.516,3.042,14.133,6.851
+                c5.614,3.806,10.229,8.754,13.846,14.842c4.38,7.806,9.657,13=
+.754,15.846,17.847c6.184,4.093,12.419,6.136,18.699,6.136
+                c6.28,0,11.704-0.476,16.274-1.423c4.565-0.952,8.848-2.383,1=
+2.847-4.285c1.713-12.758,6.377-22.559,13.988-29.41
+                c-10.848-1.14-20.601-2.857-29.264-5.14c-8.658-2.286-17.605-=
+5.996-26.835-11.14c-9.235-5.137-16.896-11.516-22.985-19.126
+                c-6.09-7.614-11.088-17.61-14.987-29.979c-3.901-12.374-5.852=
+-26.648-5.852-42.826c0-23.035,7.52-42.637,22.557-58.817
+                c-7.044-17.318-6.379-36.732,1.997-58.24c5.52-1.715,13.706-0=
+.428,24.554,3.853c10.85,4.283,18.794,7.952,23.84,10.994
+                c5.046,3.041,9.089,5.618,12.135,7.708c17.705-4.947,35.976-7=
+.421,54.818-7.421s37.117,2.474,54.823,7.421l10.849-6.849
+                c7.419-4.57,16.18-8.758,26.262-12.565c10.088-3.805,17.802-4=
+.853,23.134-3.138c8.562,21.509,9.325,40.922,2.279,58.24
+                c15.036,16.18,22.559,35.787,22.559,58.817c0,16.178-1.958,30=
+.497-5.853,42.966c-3.9,12.471-8.941,22.457-15.125,29.979
+                c-6.191,7.521-13.901,13.85-23.131,18.986c-9.232,5.14-18.182=
+,8.85-26.84,11.136c-8.662,2.286-18.415,4.004-29.263,5.146
+                c9.894,8.562,14.842,22.077,14.842,40.539v60.237c0,3.422,1.1=
+9,6.279,3.572,8.562c2.379,2.279,6.136,2.95,11.276,1.995
+                c44.163-14.653,80.185-41.062,108.068-79.226c27.88-38.161,41=
+.825-81.126,41.825-128.906
+                C438.536,184.851,428.728,148.168,409.132,114.573z"></path>
+        </svg>
+    </a>
+    <span class=3D"center consent-message">This app uses cookies to report =
+errors and anonymous usage information.</span>
+    <button id=3D"consent-accept-button" class=3D"center consent-accept-but=
+ton">Accept</button>
+    <button id=3D"open-file-button" class=3D"center open-file-button">Open =
+Model=E2=80=A6</button>
+    <button id=3D"github-button" class=3D"center github-button" style=3D"op=
+acity: 1;">Download</button>
+    <input type=3D"file" id=3D"open-file-dialog" class=3D"open-file-dialog"=
+ multiple=3D"false" accept=3D".onnx, .ort, .pb, .meta, .tflite, .lite, .tfl=
+, .keras, .h5, .hd5, .hdf5, .json, .model, .mar, .params, .param, .armnn, .=
+mnn, .ncnn, .tnnproto, .tmfile, .ms, .om, .nn, .uff, .rknn, .xmodel, .kmode=
+l, .paddle, .pdmodel, .pdparams, .nb, .dnn, .cmf, .mlmodel, .mlpackage, .ca=
+ffemodel, .pbtxt, .prototxt, .pkl, .pt, .pth, .ptl, .t7, .joblib, .cfg, .xm=
+l, .zip, .tar">
+    <!-- Preload fonts to workaround Chrome SVG layout issue -->
+    <div style=3D"font-weight: normal; color: rgba(0, 0, 0, 0.01); user-sel=
+ect: none;">.</div>
+    <div style=3D"font-weight: bold; color: rgba(0, 0, 0, 0.01); user-selec=
+t: none;">.</div>
+    <div style=3D"font-weight: bold; color: rgba(0, 0, 0, 0.01); user-selec=
+t: none;">.</div>
+</div>
+
+</body><grammarly-desktop-integration data-grammarly-shadow-root=3D"true"><=
+template shadowmode=3D"open"><div aria-label=3D"grammarly-integration" role=
+=3D"group" tabindex=3D"-1" class=3D"grammarly-desktop-integration" data-con=
+tent=3D"{&quot;mode&quot;:&quot;full&quot;,&quot;isActive&quot;:true,&quot;=
+isUserDisabled&quot;:false}"></div></template></grammarly-desktop-integrati=
+on></html>
+------MultipartBoundary--RF9AZPs2iKO1KeL0QUsHAx1FemfQ4TnFL3JCtEEQXj----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-63dcca3c-f299-40c5-b4f8-e51bf748da2e@mhtml.blink
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--RF9AZPs2iKO1KeL0QUsHAx1FemfQ4TnFL3JCtEEQXj----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-7c5d8a68-399b-436e-8373-4bd5a362c89b@mhtml.blink
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--RF9AZPs2iKO1KeL0QUsHAx1FemfQ4TnFL3JCtEEQXj----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-f83de34c-b3b9-4e10-bf10-70d7a30741cb@mhtml.blink
+
+@charset "utf-8";
+
+html { touch-action: none; overflow: hidden; width: 100%; height: 100%; tex=
+t-size-adjust: 100%; text-rendering: optimizelegibility; -webkit-font-smoot=
+hing: antialiased; }
+
+body { touch-action: none; overflow: hidden; width: 100%; height: 100%; mar=
+gin: 0px; font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Seg=
+oe UI", Ubuntu, "Droid Sans", sans-serif, "PingFang SC"; font-size: 12px; t=
+ext-rendering: geometricprecision; }
+
+button { font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Sego=
+e UI", Ubuntu, "Droid Sans", sans-serif, "PingFang SC"; }
+
+.center { position: absolute; margin: auto; inset: 0px; user-select: none; =
+}
+
+.select { user-select: text; }
+
+.open-file-dialog { display: none; }
+
+.transparent { width: 100%; height: 100%; background-color: rgb(0, 0, 0); d=
+isplay: none; opacity: 0; }
+
+.graph { display: flex; height: 100%; width: 100%; overflow: auto; outline:=
+ none; touch-action: pan-x pan-y; }
+
+.canvas { margin: auto; flex-shrink: 0; text-rendering: geometricprecision;=
+ user-select: none; }
+
+.toolbar { position: absolute; top: 10px; left: 10px; padding: 0px; margin:=
+ 0px; user-select: none; }
+
+.toolbar button:focus { outline: 0px; }
+
+.toolbar-button { background: none; border-radius: 6px; border: 0px; margin=
+: 0px; padding: 0px; fill: none; stroke: rgb(119, 119, 119); cursor: pointe=
+r; width: 24px; height: 24px; }
+
+.toolbar-button { float: left; background: none; border-radius: 6px; border=
+: 0px; margin: 0px 1px 0px 0px; padding: 0px; fill: none; stroke: rgb(119, =
+119, 119); cursor: pointer; width: 24px; height: 24px; }
+
+.toolbar-back-button { float: left; background: rgb(119, 119, 119); border-=
+top-left-radius: 6px; border-bottom-left-radius: 6px; border: 0px solid rgb=
+(119, 119, 119); margin: 2px 0px 2px 8px; padding: 0px 8px; cursor: pointer=
+; height: 20px; color: rgb(255, 255, 255); font-size: 11px; line-height: 0;=
+ transition: all 0.1s ease 0s; }
+
+.toolbar-back-button:hover { background: rgb(0, 0, 0); border-color: rgb(0,=
+ 0, 0); }
+
+.toolbar-name-button { float: left; background: rgba(255, 255, 255, 0.95); =
+border-top-right-radius: 6px; border-bottom-right-radius: 6px; border-width=
+: 1px; border-top-style: solid; border-right-style: solid; border-bottom-st=
+yle: solid; border-color: rgb(119, 119, 119) rgb(119, 119, 119) rgb(119, 11=
+9, 119) rgb(255, 255, 255); border-image: initial; color: rgb(119, 119, 119=
+); border-left-style: initial; margin: 2px 0px; padding: 0px 12px 0px 6px; =
+cursor: pointer; width: auto; height: 20px; font-size: 11px; line-height: 0=
+; transition: all 0.1s ease 0s; }
+
+.toolbar-name-button:hover { color: rgb(0, 0, 0); }
+
+.icon .border { stroke: rgb(255, 255, 255); }
+
+.icon .stroke { stroke: rgb(128, 128, 128); }
+
+.icon:hover .stroke { stroke: rgb(0, 0, 0); }
+
+.dropdown { display: none; position: absolute; min-width: 225px; z-index: 1=
+; border-radius: 4px; background-color: rgb(246, 246, 246); border: 1px sol=
+id rgba(0, 0, 0, 0.15); padding-top: 2px; padding-bottom: 2px; margin-left:=
+ 2px; overflow: hidden; }
+
+.dropdown button { display: block; border: none; border-radius: 0px; backgr=
+ound-color: transparent; color: black; width: 100%; text-align: left; paddi=
+ng: 4px 12px 5px; font-size: 12px; }
+
+.dropdown button:hover { color: rgb(255, 255, 255); background-color: rgb(4=
+6, 107, 210); }
+
+.dropdown .separator { margin-top: 2px; margin-bottom: 2px; border-top: 1px=
+ solid rgb(229, 229, 229); border-bottom: 0px solid rgb(229, 229, 229); bor=
+der-right-style: solid; border-left-style: solid; border-right-color: rgb(2=
+29, 229, 229); border-left-color: rgb(229, 229, 229); }
+
+.about { background-color: rgb(255, 255, 255); }
+
+.about { overflow: hidden; }
+
+.about .logo { background-color: rgb(236, 236, 236); color: rgb(36, 36, 36)=
+; width: 320px; height: 170px; padding: 40px; opacity: 1; border-radius: 5p=
+x; border: 0.5px solid rgb(204, 204, 204); box-shadow: rgb(221, 221, 221) 0=
+px 0px 30px; }
+
+.about.desktop .logo { border: none; border-radius: 0px; }
+
+.about.desktop .graph { display: none; opacity: 0; }
+
+.about.desktop .transparent { display: none; opacity: 0; }
+
+.about.desktop .toolbar { display: none; opacity: 0; }
+
+.about .logo-name { opacity: 0; }
+
+.about .logo-text { top: -130px; width: 320px; }
+
+.about .logo-icon { left: 136px; top: -108px; width: 60px; height: 60px; }
+
+.about .logo-stroke { stroke: rgb(36, 36, 36); }
+
+.about .logo-fill { fill: rgb(36, 36, 36); }
+
+.about .logo-border { stroke: rgb(36, 36, 36); }
+
+.about .logo-glyph { fill: rgb(36, 36, 36); }
+
+.about .logo-message { top: 112px; padding-left: 40px; padding-right: 40px;=
+ }
+
+.about a { text-decoration: none; color: rgb(36, 36, 36); }
+
+.about a:visited { color: inherit; }
+
+.about a:hover { color: rgb(36, 36, 36); }
+
+.about .logo-github { top: 130px; width: 24px; height: 24px; }
+
+.about .open-file-button { display: none; }
+
+.about .github-button { display: none; }
+
+.about .consent-message { display: none; }
+
+.about .consent-accept-button { display: none; }
+
+.about .graph { display: flex; opacity: 1; }
+
+.about .toolbar { display: block; opacity: 1; }
+
+.about .transparent { display: block; opacity: 0.5; }
+
+.welcome { background-color: rgb(236, 236, 236); color: rgb(36, 36, 36); }
+
+.welcome .logo { width: 582px; height: 128px; }
+
+.welcome .logo-text { top: -57px; width: 582px; transition: all 0.1s ease 0=
+s; }
+
+.welcome .logo-name { top: -170px; width: 582px; transition: all 0.1s ease =
+0s; }
+
+.welcome .logo-icon { left: 248px; top: -18px; width: 106px; height: 106px;=
+ transition: all 0.1s ease 0s; }
+
+.welcome .logo-spinner { left: 248px; top: -18px; width: 106px; height: 106=
+px; display: none; }
+
+.welcome .logo-stroke { stroke: rgb(68, 68, 68); }
+
+.welcome .logo-fill { fill: rgb(68, 68, 68); }
+
+.welcome .logo-border { stroke: rgb(85, 85, 85); }
+
+.welcome .logo-glyph { fill: rgb(68, 68, 68); }
+
+.welcome .logo-message { display: none; }
+
+.welcome .logo-github { display: none; }
+
+.welcome button { font-size: 12px; font-weight: bold; line-height: 1.25; te=
+xt-align: center; vertical-align: middle; min-width: 60px; height: 32px; bo=
+rder-radius: 16px; transition: all 0.1s ease 0s; user-select: none; color: =
+rgb(68, 68, 68); background-color: rgb(236, 236, 236); border: 1px solid rg=
+b(68, 68, 68); }
+
+.welcome button:hover { color: rgb(236, 236, 236); background-color: rgb(68=
+, 68, 68); cursor: pointer; transition: all 0.2s ease 0s; }
+
+.welcome button:focus { outline: 0px; }
+
+.welcome .open-file-button { top: 170px; left: -150px; width: 125px; opacit=
+y: 1; }
+
+.welcome .github-button { top: 170px; left: 150px; width: 125px; opacity: 1=
+; }
+
+.welcome .consent-accept-button { top: 220px; left: 0px; width: 125px; disp=
+lay: none; opacity: 0; }
+
+.welcome .consent-message { top: 120px; left: 0px; font-size: 13px; text-al=
+ign: center; line-height: 20px; color: rgb(68, 68, 68); display: none; opac=
+ity: 0; }
+
+.welcome .graph { display: none; opacity: 0; }
+
+.welcome.spinner .logo-spinner { display: block; animation: 0.5s linear 0s =
+infinite normal none running orbit; cursor: wait; }
+
+@-webkit-keyframes orbit {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes orbit {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.welcome.spinner .logo-spinner-stroke { stroke: rgb(236, 236, 236); }
+
+.welcome.spinner .logo-name { display: none; }
+
+.welcome.spinner .open-file-button { opacity: 0; display: none; }
+
+.welcome.spinner .github-button { opacity: 0; display: none; }
+
+.welcome.consent .logo-name { display: none; }
+
+.welcome.consent .open-file-button { opacity: 0; display: none; }
+
+.welcome.consent .github-button { opacity: 0; display: none; }
+
+.welcome.consent .consent-accept-button { opacity: 1; display: block; }
+
+.welcome.consent .consent-message { opacity: 1; display: block; }
+
+.welcome.spinner .graph { display: flex; opacity: 0; }
+
+.welcome .toolbar { display: none; }
+
+.default { background-color: rgb(255, 255, 255); }
+
+.default .logo { display: none; }
+
+.default .graph { display: flex; opacity: 1; }
+
+.default .toolbar { display: table; }
+
+@media (prefers-color-scheme: dark) {
+  :root { color-scheme: dark; }
+  .default { background-color: rgb(64, 64, 64); }
+  .graph { background-color: rgb(64, 64, 64); }
+  .about { background-color: rgb(64, 64, 64); }
+  .about .logo { background-color: rgb(45, 45, 45); color: rgb(223, 223, 22=
+3); border-color: rgb(0, 0, 0); box-shadow: rgb(51, 51, 51) 0px 0px 30px; }
+  .about a { color: rgb(223, 223, 223); }
+  .about a:hover { color: rgb(255, 255, 255); }
+  .about .logo-stroke { stroke: rgb(223, 223, 223); }
+  .about .logo-fill { fill: rgb(223, 223, 223); }
+  .about .logo-border { stroke: rgb(223, 223, 223); }
+  .about .logo-glyph { fill: rgb(223, 223, 223); }
+  .welcome { background-color: rgb(30, 30, 30); color: rgb(136, 136, 136); =
+}
+  .welcome .logo-stroke { stroke: rgb(136, 136, 136); }
+  .welcome .logo-fill { fill: rgb(136, 136, 136); }
+  .welcome .logo-border { stroke: rgb(0, 0, 0); }
+  .welcome .logo-glyph { fill: rgb(136, 136, 136); }
+  .welcome .logo-spinner-stroke { stroke: rgb(255, 255, 255); }
+  .welcome .logo button { color: rgb(136, 136, 136); background-color: rgb(=
+30, 30, 30); border-color: rgb(136, 136, 136); }
+  .welcome .logo button:hover { color: rgb(30, 30, 30); background-color: r=
+gb(136, 136, 136); }
+  .welcome .consent-message { color: rgb(136, 136, 136); display: none; opa=
+city: 0; }
+  .icon .border { stroke: rgb(29, 29, 29); }
+  .icon .stroke { stroke: rgb(170, 170, 170); }
+  .icon:hover .stroke { stroke: rgb(223, 223, 223); }
+  .dropdown { background-color: rgb(55, 55, 55); border-color: rgb(0, 0, 0)=
+; }
+  .dropdown button { color: rgb(255, 255, 255); }
+  .dropdown button:hover { color: rgb(255, 255, 255); background-color: rgb=
+(29, 89, 209); }
+  .dropdown .separator { border-color: rgb(90, 90, 90); }
+  .toolbar-back-button { background: rgb(170, 170, 170); border-color: rgb(=
+170, 170, 170); color: rgb(51, 51, 51); }
+  .toolbar-back-button:hover { background: rgb(223, 223, 223); border-color=
+: rgb(223, 223, 223); }
+  .toolbar-name-button { background: rgb(64, 64, 64); border-color: rgb(170=
+, 170, 170); color: rgb(204, 204, 204); }
+  .toolbar-name-button:hover { color: rgb(223, 223, 223); }
+}
+
+@media (max-width: 640px) {
+  .welcome .logo { width: 240px; }
+  .welcome .logo-text { opacity: 0; }
+  .welcome .logo-name { opacity: 0; }
+  .welcome .logo-icon { left: 0px; top: 0px; width: 128px; height: 128px; }
+  .welcome .logo-spinner { left: 0px; top: 0px; width: 128px; height: 128px=
+; }
+  .welcome .logo .open-file-button { top: 180px; left: 0px; }
+  .welcome .logo .github-button { top: 270px; left: 0px; }
+  .welcome .logo .consent-message { top: 140px; }
+  .welcome .logo .consent-accept-button { top: 310px; }
+  .about .logo { border-radius: 0px; border-left: 0px; border-right: 0px; w=
+idth: 100%; padding-left: 0px; padding-right: 0px; }
+  .about.desktop .logo { width: 320px; padding: 40px; }
+}
+
+@media only screen and (max-device-width: 1024px) {
+  .toolbar-button { width: 32px; height: 32px; }
+  .toolbar-back-button { margin-top: 6px; margin-bottom: 6px; }
+  .toolbar-name-button { margin-top: 6px; margin-bottom: 6px; }
+}
+------MultipartBoundary--RF9AZPs2iKO1KeL0QUsHAx1FemfQ4TnFL3JCtEEQXj----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://netron.app/view-grapher.css
+
+@charset "utf-8";
+
+.node path { stroke: rgb(51, 51, 51); fill: none; stroke-width: 1px; }
+
+.node line { stroke: rgb(51, 51, 51); fill: none; stroke-width: 1px; }
+
+.node-item path { stroke-width: 0; stroke: rgb(0, 0, 0); fill: rgb(255, 255=
+, 255); }
+
+.node-item text { font-family: -apple-system, BlinkMacSystemFont, "Segoe WP=
+C", "Segoe UI", Ubuntu, "Droid Sans", sans-serif, "PingFang SC"; font-size:=
+ 11px; text-rendering: geometricprecision; }
+
+.node-item-function path { fill: rgb(255, 255, 255); }
+
+.node-item-function text { fill: rgb(0, 0, 0); }
+
+.node-item-function:hover { cursor: pointer; }
+
+.node-item-function:hover path { fill: rgb(238, 238, 238); }
+
+.node-item-type path { fill: rgb(0, 0, 0); }
+
+.node-item-type text { fill: rgb(255, 255, 255); }
+
+.node-item-type:hover { cursor: pointer; }
+
+.node-item-type:hover path { fill: rgb(255, 255, 255); }
+
+.node-item-type:hover text { fill: rgb(0, 0, 0); }
+
+.node-item-type-constant path { fill: rgb(238, 238, 238); }
+
+.node-item-type-constant text { fill: rgb(0, 0, 0); }
+
+.node-item-type-constant:hover path { fill: rgb(255, 255, 255); }
+
+.node-item-type-control path { fill: rgb(238, 238, 238); }
+
+.node-item-type-control text { fill: rgb(0, 0, 0); }
+
+.node-item-type-control:hover path { fill: rgb(255, 255, 255); }
+
+.node-item-type-layer path { fill: rgb(51, 85, 136); }
+
+.node-item-type-wrapper path { fill: rgb(238, 238, 238); }
+
+.node-item-type-wrapper text { fill: rgb(0, 0, 0); }
+
+.node-item-type-activation path { fill: rgb(112, 41, 33); }
+
+.node-item-type-pool path { fill: rgb(51, 85, 51); }
+
+.node-item-type-normalization path { fill: rgb(51, 85, 68); }
+
+.node-item-type-dropout path { fill: rgb(69, 71, 112); }
+
+.node-item-type-shape path { fill: rgb(108, 79, 71); }
+
+.node-item-type-tensor path { fill: rgb(89, 66, 59); }
+
+.node-item-type-transform path { fill: rgb(51, 85, 68); }
+
+.node-item-type-data path { fill: rgb(85, 85, 85); }
+
+.node-item-type-quantization path { fill: rgb(80, 40, 0); }
+
+.node-item-type-custom path { fill: rgb(128, 128, 128); }
+
+.node-item-input path { fill: rgb(255, 255, 255); }
+
+.node-item-input:hover { cursor: pointer; }
+
+.node-item-input:hover path { fill: rgb(255, 255, 255); }
+
+.node-item-constant path { fill: rgb(238, 238, 238); }
+
+.node-item-constant:hover { cursor: pointer; }
+
+.node-item-constant:hover path { fill: rgb(255, 255, 255); }
+
+.node-item-undefined path { fill: rgb(255, 0, 0); }
+
+.node-item-undefined:hover { cursor: pointer; }
+
+.node-item-undefined:hover path { fill: rgb(255, 255, 255); }
+
+.node-attribute:hover { cursor: pointer; }
+
+.node-attribute text { font-family: -apple-system, BlinkMacSystemFont, "Seg=
+oe WPC", "Segoe UI", Ubuntu, "Droid Sans", sans-serif, "PingFang SC"; font-=
+size: 9px; font-weight: normal; text-rendering: geometricprecision; }
+
+.node-attribute path { fill: rgb(255, 255, 255); stroke-width: 0; stroke: r=
+gb(0, 0, 0); }
+
+.node-attribute:hover path { fill: rgb(246, 246, 246); }
+
+.graph-item-input path { fill: rgb(238, 238, 238); }
+
+.graph-item-input:hover { cursor: pointer; }
+
+.graph-item-input:hover path { fill: rgb(255, 255, 255); }
+
+.graph-item-output path { fill: rgb(238, 238, 238); }
+
+.graph-item-output:hover { cursor: pointer; }
+
+.graph-item-output:hover path { fill: rgb(255, 255, 255); }
+
+.edge-label { font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", =
+"Segoe UI", Ubuntu, "Droid Sans", sans-serif, "PingFang SC"; font-size: 10p=
+x; }
+
+.edge-path { stroke: rgb(0, 0, 0); stroke-width: 1px; fill: none; marker-en=
+d: url("#arrowhead-vee"); }
+
+#arrowhead-vee { fill: rgb(0, 0, 0); }
+
+.edge-path-control-dependency { stroke-dasharray: 3, 2; }
+
+.cluster rect { stroke: rgb(0, 0, 0); fill: rgb(0, 0, 0); fill-opacity: 0.0=
+2; stroke-opacity: 0.06; stroke-width: 1px; }
+
+.select .node.border { stroke: rgb(238, 0, 0); stroke-width: 2px; }
+
+.select.edge-path { stroke: rgb(238, 0, 0); stroke-width: 2px; marker-end: =
+url("#arrowhead-vee-select"); }
+
+#arrowhead-vee-select { fill: rgb(238, 0, 0); }
+
+@keyframes pulse {=20
+  0% { stroke-dashoffset: 100px; }
+  100% { stroke-dashoffset: 0; }
+}
+
+@media (prefers-color-scheme: dark) {
+  .edge-label { fill: rgb(178, 178, 178); }
+  .edge-path { stroke: rgb(136, 136, 136); }
+  #arrowhead-vee { fill: rgb(136, 136, 136); }
+  .node path { stroke: rgb(29, 29, 29); }
+  .node line { stroke: rgb(29, 29, 29); }
+  .select .node.border { stroke: rgb(187, 0, 0); }
+  .select.edge-path { stroke: rgb(187, 0, 0); }
+  #arrowhead-vee-select { fill: rgb(187, 0, 0); }
+  .node-item-function path { fill: rgb(64, 64, 64); }
+  .node-item-function text { fill: rgba(223, 223, 223, 0.875); }
+  .node-item-function:hover { cursor: pointer; }
+  .node-item-function:hover path { fill: rgb(102, 102, 102); }
+  .node-item-type path { fill: rgb(48, 48, 48); }
+  .node-item-type text { fill: rgb(223, 223, 223); }
+  .node-item-type:hover { cursor: pointer; }
+  .node-item-type:hover path { fill: rgb(128, 128, 128); }
+  .node-item-type:hover text { fill: rgb(223, 223, 223); }
+  .node-item path { stroke: rgb(255, 255, 255); }
+  .node-item text { fill: rgb(223, 223, 223); }
+  .node-attribute text { fill: rgb(178, 178, 178); }
+  .node-attribute path { fill: rgb(45, 45, 45); }
+  .node-attribute:hover path { fill: rgb(102, 102, 102); }
+  .graph-item-input path { fill: rgb(64, 64, 64); }
+  .graph-item-input:hover { cursor: pointer; }
+  .graph-item-input:hover path { fill: rgb(102, 102, 102); }
+  .graph-item-output path { fill: rgb(64, 64, 64); }
+  .graph-item-output:hover { cursor: pointer; }
+  .graph-item-output:hover path { fill: rgb(102, 102, 102); }
+  .node-item-input path { fill: rgb(64, 64, 64); }
+  .node-item-input:hover path { fill: rgb(102, 102, 102); }
+  .node-item-constant path { fill: rgb(75, 75, 75); }
+  .node-item-constant:hover path { fill: rgb(102, 102, 102); }
+  .node-item-type-layer path { fill: rgba(51, 85, 136, 0.7); }
+  .node-item-type-activation path { fill: rgba(75, 27, 22, 0.7); }
+  .node-item-type-activation path { fill: rgba(75, 27, 22, 0.7); }
+  .node-item-type-pool path { fill: rgba(51, 85, 51, 0.7); }
+  .node-item-type-pool path { fill: rgba(51, 85, 51, 0.7); }
+  .node-item-type-normalization path { fill: rgba(51, 85, 68, 0.7); }
+  .node-item-type-dropout path { fill: rgba(69, 71, 112, 0.7); }
+  .node-item-type-shape path { fill: rgba(108, 79, 71, 0.7); }
+  .node-item-type-tensor path { fill: rgba(89, 66, 59, 0.7); }
+  .node-item-type-transform path { fill: rgba(51, 85, 68, 0.7); }
+  .node-item-type-data path { fill: rgba(85, 85, 85, 0.7); }
+  .node-item-type-quantization path { fill: rgba(80, 40, 0, 0.7); }
+  .node-item-type-custom path { fill: rgba(64, 64, 64, 0.7); }
+}
+------MultipartBoundary--RF9AZPs2iKO1KeL0QUsHAx1FemfQ4TnFL3JCtEEQXj----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://netron.app/view-sidebar.css
+
+@charset "utf-8";
+
+.sidebar { font-family: -apple-system, BlinkMacSystemFont, "Segoe WPC", "Se=
+goe UI", Ubuntu, "Droid Sans", sans-serif; font-size: 12px; height: 100%; w=
+idth: 0px; position: fixed; transition: all 0.2s ease 0s; z-index: 1; top: =
+0px; right: 0px; background-color: rgb(236, 236, 236); color: rgb(36, 36, 3=
+6); overflow: hidden; border-left: 1px solid rgb(204, 204, 204); }
+
+.sidebar-title { font-weight: bold; font-size: 12px; letter-spacing: 0.5px;=
+ height: 20px; margin: 0px; padding: 20px; user-select: none; }
+
+.sidebar-closebutton { padding: 8px 8px 8px 32px; text-decoration: none; fo=
+nt-size: 25px; color: rgb(119, 119, 119); opacity: 1; display: block; trans=
+ition: all 0.2s ease 0s; position: absolute; top: 0px; right: 15px; margin-=
+left: 50px; user-select: none; }
+
+.sidebar-closebutton:hover { color: rgb(36, 36, 36); }
+
+.sidebar-content { padding-left: 20px; padding-right: 20px; margin-bottom: =
+20px; overflow-y: auto; height: calc(100vh - 60px); }
+
+.sidebar-view-title { font-weight: bold; font-size: 11px; line-height: 1.25=
+; border-bottom: 1px solid rgb(236, 236, 236); padding-bottom: 0.3em; margi=
+n-top: 0px; margin-bottom: 16px; color: rgb(51, 51, 51); user-select: none;=
+ cursor: default; }
+
+.sidebar-view-title-button { display: inline-block; color: rgb(136, 136, 13=
+6); text-align: center; vertical-align: middle; font-weight: bold; width: 1=
+2px; height: 12px; font-size: 10px; line-height: 12px; border-radius: 50%; =
+transform: translateY(-1px); padding: 1px; background: transparent; border:=
+ 1px solid rgb(170, 170, 170); text-decoration: none; cursor: pointer; user=
+-select: none; }
+
+.sidebar-view-title-button:hover { color: rgb(51, 51, 51); border: 1px soli=
+d rgb(51, 51, 51); }
+
+.sidebar-view-header { font-weight: bold; font-size: 11px; text-transform: =
+uppercase; line-height: 1.25; margin-top: 16px; margin-bottom: 16px; border=
+-bottom: 1px solid rgb(236, 236, 236); display: block; user-select: none; c=
+ursor: default; }
+
+.sidebar-view-item { margin-bottom: 0px; display: block; }
+
+.sidebar-view-item-name { float: left; font-size: 11px; min-width: 95px; ma=
+x-width: 95px; padding-right: 5px; padding-top: 7px; display: block; }
+
+.sidebar-view-item-name input { font-family: inherit; font-size: inherit; c=
+olor: inherit; background-color: inherit; width: 100%; text-align: right; m=
+argin: 0px; padding: 0px; border: 0px; outline: none; text-overflow: ellips=
+is; }
+
+.sidebar-view-item-value-list { margin: 0px 0px 0px 105px; overflow: hidden=
+; display: block; padding: 0px; }
+
+.sidebar-view-item-value { font-size: 11px; background-color: rgb(252, 252,=
+ 252); border-radius: 2px; border: 1px solid rgb(252, 252, 252); margin-top=
+: 3px; margin-bottom: 3px; overflow: auto; }
+
+.sidebar-view-item-value-dark { background-color: rgb(248, 248, 248); borde=
+r: 1px solid rgb(248, 248, 248); }
+
+.sidebar-view-item-value b { font-weight: bold; }
+
+.sidebar-view-item-value code { font-family: SFMono-Regular, Consolas, "Lib=
+eration Mono", Menlo, Courier, monospace; overflow: auto; white-space: pre-=
+wrap; overflow-wrap: break-word; }
+
+.sidebar-view-item-value pre { font-family: SFMono-Regular, Consolas, "Libe=
+ration Mono", Menlo, Courier, monospace; margin: 0px; overflow: auto; white=
+-space: pre; overflow-wrap: normal; display: block; }
+
+.sidebar-view-item-value-line { padding: 4px 6px; }
+
+.sidebar-view-item-value-line-link { padding: 4px 6px; cursor: default; }
+
+.sidebar-view-item-value-line-link:hover { text-decoration: underline; }
+
+.sidebar-view-item-value-line-border { padding: 4px 6px; border-top: 1px so=
+lid rgba(27, 31, 35, 0.05); }
+
+.sidebar-view-item-value-line-content { white-space: pre; overflow-wrap: no=
+rmal; overflow: auto; display: block; }
+
+.sidebar-view-item-value-expander { font-family: SFMono-Regular, Consolas, =
+"Liberation Mono", Menlo, Courier, monospace; float: right; color: rgb(170,=
+ 170, 170); cursor: pointer; user-select: none; padding: 4px 6px; }
+
+.sidebar-view-item-value-expander:hover { color: rgb(0, 0, 0); }
+
+.sidebar-view-item-select { font-family: inherit; font-size: 12px; backgrou=
+nd-color: rgb(252, 252, 252); border: rgb(252, 252, 252); color: rgb(51, 51=
+, 51); border-radius: 2px; width: 100%; height: 23px; padding: 3px 12px 3px=
+ 7px; margin-top: 3px; margin-bottom: 3px; box-sizing: border-box; outline:=
+ none; appearance: none; background-image: linear-gradient(45deg, transpare=
+nt 50%, rgb(51, 51, 51) 50%), linear-gradient(135deg, rgb(51, 51, 51) 50%, =
+transparent 50%); background-position: calc(100% - 12px) calc(10px), calc(1=
+00% - 7px) calc(10px); background-size: 5px 5px, 5px 5px; background-repeat=
+: no-repeat; }
+
+.sidebar-view-separator { margin-bottom: 20px; }
+
+.sidebar-view-find input[type=3D"text"] { font-family: inherit; font-size: =
+13px; padding: 4px 6px; background: rgb(255, 255, 255); border-radius: 4px;=
+ border: 1px solid rgb(204, 204, 204); outline: 0px; }
+
+.sidebar-view-find ol { list-style-type: none; overflow-y: auto; margin: 8p=
+x 0px 20px; padding: 0px; }
+
+.sidebar-view-find li { font-family: SFMono-Regular, Consolas, "Liberation =
+Mono", Menlo, Courier, monospace; font-size: 12px; margin: 0px; padding: 5p=
+x 8px; outline: 0px; white-space: nowrap; user-select: none; }
+
+.sidebar-view-find li:not(:first-child) { border-top: 1px solid rgb(240, 24=
+0, 240); }
+
+.sidebar-view-find li:hover { background: rgb(238, 238, 238); }
+
+.sidebar-view-documentation { font-size: 13px; line-height: 1.5; margin: 0p=
+x; }
+
+.sidebar-view-documentation h1 { font-weight: bold; font-size: 13px; line-h=
+eight: 1.25; border-bottom: 1px solid rgb(232, 232, 232); padding-bottom: 0=
+.3em; margin-top: 0px; margin-bottom: 16px; }
+
+.sidebar-view-documentation h2 { font-weight: bold; font-size: 11px; line-h=
+eight: 1.25; margin-top: 20px; margin-bottom: 16px; text-transform: upperca=
+se; border: 0px; }
+
+.sidebar-view-documentation h3 { font-weight: bold; font-size: 11px; line-h=
+eight: 1.25; }
+
+.sidebar-view-documentation p { margin-top: 4px; margin-bottom: 4px; margin=
+-left: 0px; }
+
+.sidebar-view-documentation a { color: rgb(34, 51, 119); }
+
+.sidebar-view-documentation code { font-family: SFMono-Regular, Consolas, "=
+Liberation Mono", Menlo, Courier, monospace; font-size: 12px; background-co=
+lor: rgba(27, 31, 35, 0.05); padding: 0.2em 0.4em; margin: 0px; border-radi=
+us: 3px; }
+
+.sidebar-view-documentation pre { font-family: SFMono-Regular, Consolas, "L=
+iberation Mono", Menlo, Courier, monospace; font-size: 12px; padding: 16px;=
+ overflow: auto; line-height: 1.45; background-color: rgba(27, 31, 35, 0.05=
+); border-radius: 3px; }
+
+.sidebar-view-documentation pre code { font-size: 13px; line-height: 1.45; =
+background-color: transparent; padding: 0px; border-radius: 0px; }
+
+.sidebar-view-documentation tt { font-family: SFMono-Regular, Consolas, "Li=
+beration Mono", Menlo, Courier, monospace; font-weight: bold; font-size: 90=
+%; background-color: rgba(27, 31, 35, 0.05); border-radius: 3px; padding: 0=
+.2em 0.4em; margin: 0px; }
+
+.sidebar-view-documentation dl dt { font-size: 13px; font-weight: bold; pad=
+ding: 0px; margin-top: 16px; margin-left: 0px; }
+
+.sidebar-view-documentation dd { padding: 0px 16px; margin-left: 0px; margi=
+n-bottom: 16px; }
+
+.sidebar-view-documentation ul { margin-top: 6px; margin-bottom: 6px; paddi=
+ng-left: 20px; }
+
+.sidebar-view-documentation blockquote { margin-left: 15px; margin-right: 1=
+5px; }
+
+@media (prefers-color-scheme: dark) {
+  .sidebar html { color: rgb(223, 223, 223); }
+  .sidebar { background-color: rgb(45, 45, 45); color: rgb(223, 223, 223); =
+border-left: 1px solid rgb(0, 0, 0); }
+  .sidebar-closebutton { padding: 8px 8px 8px 32px; text-decoration: none; =
+font-size: 25px; color: rgb(119, 119, 119); opacity: 1; display: block; tra=
+nsition: all 0.2s ease 0s; position: absolute; top: 0px; right: 15px; margi=
+n-left: 50px; user-select: none; }
+  .sidebar-closebutton:hover { color: rgb(255, 255, 255); }
+  .sidebar-view-item-value { background-color: rgb(56, 56, 56); border-colo=
+r: rgb(56, 56, 56); }
+  .sidebar-view-item-value-dark { background-color: rgb(62, 62, 62); border=
+-color: rgb(62, 62, 62); }
+  .sidebar-view-item-value-line-border { border-color: rgba(0, 0, 0, 0.09);=
+ }
+  .sidebar-view-item-select { background-color: rgb(56, 56, 56); border: rg=
+b(56, 56, 56); color: rgb(223, 223, 223); background-image: linear-gradient=
+(45deg, transparent 50%, rgb(170, 170, 170) 50%), linear-gradient(135deg, r=
+gb(170, 170, 170) 50%, transparent 50%); }
+  .sidebar-view-title { border-bottom-color: rgb(45, 45, 45); color: rgb(22=
+3, 223, 223); }
+  .sidebar-view-title-button { color: rgb(136, 136, 136); border-color: rgb=
+(136, 136, 136); }
+  .sidebar-view-title-button:hover { color: rgb(223, 223, 223); border-colo=
+r: rgb(223, 223, 223); }
+  .sidebar-view-header { border-bottom-color: rgb(45, 45, 45); color: rgb(2=
+23, 223, 223); }
+  .sidebar-view-documentation h1 { border-bottom: 1px solid rgb(66, 66, 66)=
+; color: rgb(223, 223, 223); }
+  .sidebar-view-documentation h2 { color: rgb(223, 223, 223); }
+  .sidebar-view-documentation p { color: rgb(170, 170, 170); }
+  .sidebar-view-documentation a { color: rgb(102, 136, 170); }
+  .sidebar-view-documentation tt { background-color: rgb(30, 30, 30); }
+  .sidebar-view-documentation code { background-color: rgb(30, 30, 30); }
+  .sidebar-view-documentation pre { background-color: rgb(30, 30, 30); }
+  .sidebar-view-find input[type=3D"text"] { background: rgb(56, 56, 56); co=
+lor: rgb(223, 223, 223); border-color: rgb(66, 66, 66); }
+  .sidebar-view-find li:not(:first-child) { border-top: 1px solid rgb(42, 4=
+2, 42); }
+  .sidebar-view-find li:hover { background: rgb(56, 56, 56); }
+}
+------MultipartBoundary--RF9AZPs2iKO1KeL0QUsHAx1FemfQ4TnFL3JCtEEQXj------
