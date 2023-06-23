@@ -26,7 +26,7 @@ Feel free to file a new issue with a respective title and description on the *AI
 ## Contribution :📲
 1. Clone the repository 
 
-$git clone https://github.com/
+$git clone https://github.com/deven1003/AI_Virtual_Mouse.git
 
 2. Check the status of your file 
 
