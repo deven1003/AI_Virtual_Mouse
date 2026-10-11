@@ -2,54 +2,66 @@
 
 The hand gesture virtual mouse using Python is an innovative application that allows users to control their computer cursor using hand movements. By leveraging computer vision and machine learning techniques, it captures the webcam feed, detects hand gestures, and translates them into mouse actions. This intuitive and interactive system enhances user experience and opens up new possibilities for natural human-computer interaction.
 
-### Tech Stacks:💻
+### Tech Stack 💻
 - OpenCV (for image processing and drawing)
 - Mediapipe (for Hand Tracking)
 - PyAutoGui (for controlling mouse movement and click)
 - Numpy
 
-## Prerequisites:
-- You should install python version 3.7 or more
-- Import all modules required for the project using this command
+## Prerequisites
+- Python 3.7 or newer
+- A webcam
+- Install the required packages:
 
-pip install <module name>
+```sh
+pip install opencv-python mediapipe pyautogui numpy
+```
 
+## Features
+* Moves your cursor to follow your index finger
+* Tracks your hand in real time
 
-## Features :
-* Can Move Your Cursor corresponding to your Index finger movement
-* Can track your hand in real-time
+## Note 📝
+Feel free to open an issue with a clear title and description on *AI_Virtual_Mouse*. If you've already found a fix, I'd love to review your pull request!
 
+## Contributing 📲
+1. Clone the repository
 
-## Note :📝 
-Feel free to file a new issue with a respective title and description on the *AI-Virtual-Mouse*. If you already found a solution to your problem, I would love to review your pull request! 
+   ```sh
+   git clone https://github.com/deven1003/AI_Virtual_Mouse.git
+   cd AI_Virtual_Mouse
+   ```
 
-## Contribution :📲
-1. Clone the repository 
+2. Create a branch for your change
 
-$git clone https://github.com/deven1003/AI_Virtual_Mouse.git
+   ```sh
+   git checkout -b my-change
+   ```
 
-2. Check the status of your file 
+3. Open the project in VS Code (optional)
 
-$git status
+   ```sh
+   code .
+   ```
 
+4. Check which files you changed
 
-3.For using VScode for editing your files 
+   ```sh
+   git status
+   ```
 
-$git code .
+5. Stage and commit your changes
 
-4. To directly add your files to github
+   ```sh
+   git add .
+   git commit -m "Describe your change"
+   ```
 
-$git add .
+6. Push your branch and open a pull request
 
-5. After writing your code commit your changes 
-
-$git commit -m  <message>
-
-6. To push your code to reposoitory
-
-$git push origin master
-
-Thats all about installation and version control with *Git*
+   ```sh
+   git push origin my-change
+   ```
 
 ## Screen-Shots
 ![WhatsApp Image 2023-06-16 at 12 43 02 PM](https://github.com/deven1003/AI_Virtual_Mouse/assets/89897347/4843c782-1d9d-4a22-9964-57cb6e256c86)
